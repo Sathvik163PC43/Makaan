@@ -1,0 +1,1177 @@
+,Seller Name,Seller type,BHK,Location,City,Price,Price_per_sqft,Area_sqft,Construction status
+0,Abode Developers,BUILDER,2,"Ameenpur, Hyderabad",Hyderabad,6291000,5400,1165,Under Construction
+1,Elemental Realty,BUILDER,4,"Patancheru, Hyderabad",Hyderabad,14800000,7700,1930,Under Construction
+2,R V Nirmaan Private Limited,BUILDER,3,"Miyapur, Hyderabad",Hyderabad,12700000,6500,1967,Under Construction
+3,Vasavi Group,BUILDER,2,"Uppal Kalan, Hyderabad",Hyderabad,6495000,6104,1065,Under Construction
+4,Shree Vasavi Developers,BUILDER,3,"Attapur, Hyderabad",Hyderabad,14600000,7299,2005,Under Construction
+5,Risinia Builders,BUILDER,2,"Pragathi Nagar Kukatpally, Hyderabad",Hyderabad,7345000,5599,1312,Under Construction
+6,Cyber City Oriana,BUILDER,3,"Kukatpally, Hyderabad",Hyderabad,12800000,8699,1480,Under Construction
+7,Ira Reality,BUILDER,4,"Adibatla, Hyderabad",Hyderabad,31400000,8500,3705,Under Construction
+8,Kalyan Infra Projects,BUILDER,3,"Manchirevula, Hyderabad",Hyderabad,14200000,6625,2150,Under Construction
+9,Jain Constructions,BUILDER,3,"Malkajgiri, Hyderabad",Hyderabad,16299999,7300,2245,Under Construction
+10,Hallmark Builders,BUILDER,3,"Patighanpur, Hyderabad",Hyderabad,11299999,6002,1885,Under Construction
+11,APR Group,BUILDER,4,"Bachupally, Hyderabad",Hyderabad,40800000,12000,3400,Under Construction
+12,Grenstone Infra,BUILDER,4,"Maheshwaram, Hyderabad",Hyderabad,14000000,5200,2701,Under Construction
+13,Mahaveer Group,BUILDER,4,"Attapur, Hyderabad",Hyderabad,35200000,7500,4706,Under Construction
+14,Beyond Nature,BUILDER,3,"Sadashivpet, Hyderabad",Hyderabad,6300000,2000,3150,New
+15,Salarpuria Sattva,BUILDER,3,"Kokapet, Hyderabad",Hyderabad,28000000,10239,2744,Under Construction
+16,SVC Constructions,BUILDER,3,"Jeedimetla, Hyderabad",Hyderabad,10200000,5400,1902,Under Construction
+17,Om Sree Builders And Developers,BUILDER,3,"Sainikpuri, Hyderabad",Hyderabad,13799999,6300,2200,Ready to move
+18,Provident Housing Limited,BUILDER,3,"Rajendra Nagar, Hyderabad",Hyderabad,8000000,7641,1047,Ready to move
+19,GSR Group,BUILDER,4,"Kollur, Hyderabad",Hyderabad,40900000,6500,6300,Under Construction
+20,seller,VERIFIED OWNER,2,Aditya Puram,Gwalior,3100000,2924,1060,Under Construction
+21,seller,VERIFIED OWNER,1,Lashkar,Gwalior,25000000,16666,1500,Ready to move
+22,seller,VERIFIED OWNER,3,Morar,Gwalior,1000000,1000,1000,Resale
+23,Satyam builders,BUILDER,3,Dongarpur,Gwalior,4350000,4350,1000,New
+24,aamra infratec,BUILDER,3,Morar Cantt,Gwalior,1320000,1100,1200,New
+25,Satyam builders,BUILDER,3,Dongarpur,Gwalior,3400000,4250,800,New
+26,Sanjay agarwal,OWNER,2,Madhav Ganj,Gwalior,2400000,3750,640,Ready to move
+27,A S SIKARWAR,OWNER,3,Patel Nagar,Gwalior,3500000,2916,1200,Ready to move
+28,Praveen,OWNER,3,Morar,Gwalior,3000000,2400,1250,New
+29,Dheerendra Chandraketu,OWNER,3,Shatabdi Puram,Gwalior,6000000,2816,2130,Ready to move
+30,Saurabh sharma,OWNER,3,DD Nagar,Gwalior,4000000,4000,1000,Resale
+31,Sudeep sengar,OWNER,3,Sirol,Gwalior,6200000,5102,1215,Resale
+32,abhilasha tiwari,BUILDER,2,Shekhpura,Gwalior,3500000,3375,1037,Ready to move
+33,Cosmo group,BUILDER,3,Sirol,Gwalior,4100000,2538,1615,Under Construction
+34,Satyam builders,BUILDER,3,Dongarpur,Gwalior,4000000,4444,900,New
+35,Harshit kushwah,OWNER,3,Badagaon,Gwalior,1100000,1100,1000,New
+36,Sonu,OWNER,3,Badagaon,Gwalior,5500000,2619,2100,New
+37,Deepak,OWNER,3,Dongarpur,Gwalior,6000000,5000,1200,Ready to move
+38,east meridian,AGENT,3,Mahalgaon,Gwalior,3700000,2681,1380,Under Construction
+39,sanket chaturvedi,BUILDER,2,Mahalgaon,Gwalior,3000000,2608,1150,Ready to move
+40,V K Infrastructures,BUILDER,3,"Endada, Visakhapatnam",Visakhapatnam,9480000,6000,1580,Ready to move
+41,MVV Builders,BUILDER,3,"Yendada, Visakhapatnam",Visakhapatnam,7870000,5339,1474,Ready to move
+42,Vishwanadh Avenues Private Limited,BUILDER,3,"Pendurthi, Visakhapatnam",Visakhapatnam,6773999,4399,1540,Under Construction
+43,MK Builders and Developers,BUILDER,3,"Madhurawada, Visakhapatnam",Visakhapatnam,8305000,5500,1510,Under Construction
+44,V K Infrastructures,BUILDER,3,"Endada, Visakhapatnam",Visakhapatnam,9480000,6000,1580,Ready to move
+45,MVV Builders,BUILDER,2,"Yendada, Visakhapatnam",Visakhapatnam,6270000,5433,1154,Ready to move
+46,Vishwanadh Avenues Private Limited,BUILDER,3,"Pendurthi, Visakhapatnam",Visakhapatnam,5940000,4400,1350,Under Construction
+47,MK Builders and Developers,BUILDER,3,"Madhurawada, Visakhapatnam",Visakhapatnam,10300000,5500,1875,Under Construction
+48,V K Infrastructures,BUILDER,3,"Endada, Visakhapatnam",Visakhapatnam,12200000,6000,2040,Ready to move
+49,MVV Builders,BUILDER,3,"Yendada, Visakhapatnam",Visakhapatnam,8255000,5322,1551,Ready to move
+50,Vishwanadh Avenues Private Limited,BUILDER,2,"Pendurthi, Visakhapatnam",Visakhapatnam,4488000,4400,1020,Under Construction
+51,MK Builders and Developers,BUILDER,3,"Madhurawada, Visakhapatnam",Visakhapatnam,7617000,5500,1385,Under Construction
+52,seller,VERIFIED OWNER,2,"Gopalapatnam, Visakhapatnam",Visakhapatnam,3600000,3673,980,Under Construction
+53,seller,VERIFIED OWNER,3,"Madhurawada, Visakhapatnam",Visakhapatnam,6370000,4599,1385,Ready to move
+54,seller,VERIFIED OWNER,3,"Endada, Visakhapatnam",Visakhapatnam,7000000,5426,1290,Ready to move
+55,seller,VERIFIED OWNER,2,"Madhurawada, Visakhapatnam",Visakhapatnam,4370000,3800,1150,Under Construction
+56,seller,VERIFIED OWNER,2,"Madhurawada, Visakhapatnam",Visakhapatnam,4500000,4500,1000,Ready to move
+57,seller,VERIFIED OWNER,2,"Kurmannapalem, Visakhapatnam",Visakhapatnam,4200000,4200,1000,Ready to move
+58,seller,VERIFIED OWNER,2,"Pothinamallayya Palem, Visakhapatnam",Visakhapatnam,4600000,4600,1000,Ready to move
+59,seller,VERIFIED OWNER,3,"Dwaraka Nagar, Visakhapatnam",Visakhapatnam,19500000,8297,2350,Under Construction
+60,Himaja Constructions P Ltd,BUILDER,2,"Kesarapalli, Vijayawada",Vijayawada,3583000,3050,1175,Ready to move
+61,Himaja Constructions P Ltd,BUILDER,2,"Kesarapalli, Vijayawada",Vijayawada,3724000,3050,1221,Ready to move
+62,Himaja Constructions P Ltd,BUILDER,2,"Kesarapalli, Vijayawada",Vijayawada,3632000,3050,1191,Ready to move
+63,seller,VERIFIED OWNER,3,"Poranki, Vijayawada",Vijayawada,5550000,3497,1587,Ready to move
+64,seller,VERIFIED OWNER,2,"Poranki, Vijayawada",Vijayawada,4800000,3310,1450,Ready to move
+65,seller,VERIFIED OWNER,2,"Kankipadu, Vijayawada",Vijayawada,5000000,3875,1290,Under Construction
+66,seller,VERIFIED OWNER,2,"Poranki, Vijayawada",Vijayawada,4000000,3333,1200,Ready to move
+67,seller,VERIFIED OWNER,3,"Gannavaram, Vijayawada",Vijayawada,5986000,3600,1663,Ready to move
+68,seller,VERIFIED OWNER,3,"Gunadala, Vijayawada",Vijayawada,5600000,3733,1500,Ready to move
+69,seller,VERIFIED OWNER,3,"Gollapudi, Vijayawada",Vijayawada,8900000,4316,2062,Ready to move
+70,seller,VERIFIED OWNER,2,"Enikepadu, Vijayawada",Vijayawada,3900000,3120,1250,Ready to move
+71,seller,VERIFIED OWNER,2,"Benz Circle, Vijayawada",Vijayawada,5900000,4370,1350,Ready to move
+72,seller,VERIFIED OWNER,3,"Vidhyadharpuram, Vijayawada",Vijayawada,9500000,5937,1600,Under Construction
+73,seller,VERIFIED OWNER,6,"Penamaluru, Vijayawada",Vijayawada,11000000,2972,3700,Ready to move
+74,seller,VERIFIED OWNER,3,"Kankipadu, Vijayawada",Vijayawada,1682999,944,1782,Resale
+75,seller,VERIFIED OWNER,3,"Poranki, Vijayawada",Vijayawada,3300000,1833,1800,Resale
+76,seller,VERIFIED OWNER,3,"Kankipadu, Vijayawada",Vijayawada,2000000,1333,1500,Resale
+77,Dial To Property,AGENT,3,"Benz Circle, Vijayawada",Vijayawada,16600000,7200,2317,Under Construction
+78,PV Infra pvt LTD,AGENT,3,"Gannavaram, Vijayawada",Vijayawada,7200000,4363,1650,Ready to move
+79,Sri Sai Ram Real Estate,AGENT,2,"Payakapuram, Vijayawada",Vijayawada,5600000,5600,1000,Ready to move
+80,abhi,BUILDER,2,"Warangal Mulug Road, Warangal",Warangal,5220000,3600,1450,Under Construction
+81,Sn Constructions,OWNER,3,"Hanamkonda, Warangal",Warangal,8000000,10000,800,Ready to move
+82,Archit Singla,OWNER,3,"Hanamkonda, Warangal",Warangal,21000000,833,25200,New
+83,shiva,AGENT,3,"Kazipet, Warangal",Warangal,3500000,648,5400,New
+84,abhinav,AGENT,3,"Hanamkonda, Warangal",Warangal,3500000,648,5400,New
+85,Abhiprojects,AGENT,3,"Hanamkonda, Warangal",Warangal,3299000,611,5400,New
+86,ksk,OWNER,3,"Janagam Hyderabad Highway, Warangal",Warangal,15000000,681,22000,Resale
+87,Vijay,AGENT,3,"NH163, Warangal",Warangal,305000,280,1089,New
+88,ABHI PROJECTS,AGENT,3,"Warangal Mulug Road, Warangal",Warangal,980000,224,4356,New
+89,shiva,AGENT,3,"Hanamkonda, Warangal",Warangal,6500000,1203,5400,New
+90,ramakrishna,OWNER,3,"Hanamkonda, Warangal",Warangal,2100000,1037,2025,New
+91,abhi,BUILDER,2,"Warangal Mulug Road, Warangal",Warangal,3871000,2900,1335,Under Construction
+92,abhinav,AGENT,3,"Kazipet, Warangal",Warangal,3500000,648,5400,New
+93,ABHI PROJECTS,AGENT,3,"Hanamkonda, Warangal",Warangal,1230000,282,4356,New
+94,praveen,OWNER,3,"Kazipet, Warangal",Warangal,14000000,3043,4600,Ready to move
+95,DrRAMESH BABU GUDURU,OWNER,4,"Hasanparthy, Warangal",Warangal,10000000,3846,2600,Ready to move
+96,abhi,BUILDER,3,"Madikonda, Warangal",Warangal,3299000,611,5400,New
+97,Neelu Ramu,OWNER,3,"Prakashreddypet, Warangal",Warangal,8700000,3222,2700,New
+98,Alekya,OWNER,3,"Bheemaram, Warangal",Warangal,7000000,2880,2430,New
+99,seller,OWNER,3,"Hanamkonda, Warangal",Warangal,1820000,919,1980,Resale
+100,seller,VERIFIED OWNER,3,"Dinnedevarapadu, Kurnool",Kurnool,550000,458,1200,Resale
+101,seller,VERIFIED OWNER,3,"Dinnedevarapadu, Kurnool",Kurnool,5400000,3750,1440,Under Construction
+102,Skandhanshi infra projects,AGENT,2,"Venkata Ramana Colony Road, Kurnool",Kurnool,7456000,5200,1434,Ready to move
+103,venkatesh,BUILDER,2,"Venkata Ramana Colony Road, Kurnool",Kurnool,7456000,5199,1434,Ready to move
+104,skandanshi,BUILDER,3,"Venkata Ramana Colony Road, Kurnool",Kurnool,6193000,5200,1191,Ready to move
+105,Krishnakanth Infra Projects,AGENT,3,"B Camp, Kurnool",Kurnool,9000000,1800,5000,Ready to move
+106,shaik vasifa,OWNER,2,"Dinnedevarapadu, Kurnool",Kurnool,5000000,5202,961,Under Construction
+107,SUNANDA INFRA PROJECTS,AGENT,3,"B Thandrapadu, Kurnool",Kurnool,800000,666,1200,New
+108,Skandhanshi infra projects,AGENT,3,"Kurnool District, Kurnool",Kurnool,1462000,974,1500,New
+109,G Raju,OWNER,3,"B Thandrapadu, Kurnool",Kurnool,850000,566,1500,New
+110,Star Properties,OWNER,3,"Kurnool Nandyal Road, Kurnool",Kurnool,500000,370,1350,Resale
+111,skandanshi,BUILDER,3,"Bellary Chowrasta Road, Kurnool",Kurnool,1275000,12750,100,New
+112,Skandhanshi infra projects Pvt Ltd,BUILDER,4,"Sunkesula Road, Kurnool",Kurnool,6834000,4200,1627,Under Construction
+113,SKANDHANSHI INFRA PROJECTS,AGENT,2,"Kurnool District, Kurnool",Kurnool,7956000,5548,1434,Ready to move
+114,D k,AGENT,3,"Bellary Chowrasta Road, Kurnool",Kurnool,6300000,5250,1200,Under Construction
+115,Malla Reddy Infra Projects,BUILDER,2,"Nandikotkur Road, Kurnool",Kurnool,4750000,3166,1500,Under Construction
+116,RAMUDU,BUILDER,2,"Nandikotkur Road, Kurnool",Kurnool,3200000,2666,1200,Ready to move
+117,Sandeep,BUILDER,3,"Kurnool Nandyal Road, Kurnool",Kurnool,1860000,1377,1350,New
+118,Skandhanshi infra projects,BUILDER,3,"Kurnool Nandyal Road, Kurnool",Kurnool,1860000,1377,1350,New
+119,Krishna,BUILDER,2,"Nandyal, Kurnool",Kurnool,1200000,1846,650,Ready to move
+120,seller,VERIFIED OWNER,2,"KVP Colony, Guntur",Guntur,3300000,3119,1058,Ready to move
+121,seller,VERIFIED OWNER,3,"Gorantla, Guntur",Guntur,12000000,5172,2320,Ready to move
+122,seller,VERIFIED OWNER,2,"Gorantla, Guntur",Guntur,3000000,2617,1146,Ready to move
+123,seller,VERIFIED OWNER,3,"Barampet, Guntur",Guntur,1599000,914,1750,Resale
+124,Jithu,AGENT,2,"Tenali, Guntur",Guntur,4300000,4300,1000,Ready to move
+125,Guest,AGENT,3,"Kaza, Guntur",Guntur,3217000,2127,1512,New
+126,Bhargav forcloser,AGENT,1,"Tadepalli, Guntur",Guntur,2760000,6934,398,Ready to move
+127,Guest,AGENT,3,"Kaza, Guntur",Guntur,3568000,2166,1647,New
+128,Bhargav forcloser,AGENT,3,"Arundelpet, Guntur",Guntur,9355000,1208,7739,Resale
+129,Sri Balaji properties,AGENT,2,"Gujjanagundla, Guntur",Guntur,3861000,3300,1170,Ready to move
+130,Sweet Home Properties,AGENT,3,"SVN Colony, Guntur",Guntur,5500000,3315,1659,Ready to move
+131,smartrajiv,AGENT,2,"Syamala Nagar, Guntur",Guntur,13000000,5555,2340,Under Construction
+132,Syed mahammad eliyaz,AGENT,2,"Gorantla, Guntur",Guntur,13200000,8527,1548,Ready to move
+133,Bhargav forcloser,AGENT,3,"Ashok Nagar, Guntur",Guntur,12800000,4758,2690,Resale
+134,Sri Bramara township pvt ltd,AGENT,2,"Vinukonda, Guntur",Guntur,3300000,2222,1485,Under Construction
+135,sunrise,AGENT,3,"Pattabhipuram, Guntur",Guntur,7500000,4411,1700,Ready to move
+136,Andhra Realty,BUILDER,3,"Tadepalli, Guntur",Guntur,12500000,9259,1350,Under Construction
+137,Global Residential Projects,AGENT,3,"Old Guntur, Guntur",Guntur,6650000,3065,2169,Resale
+138,Sweet Home Properties,AGENT,3,"Saibaba Road, Guntur",Guntur,7200000,4000,1800,Ready to move
+139,Vijaya gardens,AGENT,3,"Gorantla, Guntur",Guntur,4800000,24000,200,New
+140,seller,VERIFIED OWNER,2,"Kanuparthipadu, Nellore",Nellore,8000000,3703,2160,Ready to move
+141,seller,VERIFIED OWNER,3,"Allipuram, Nellore",Nellore,1875000,1041,1800,Resale
+142,owner owner,BUILDER,3,"Narayana Reddy Pet, Nellore",Nellore,3333000,1388,2400,New
+143,Nadi Realestate,AGENT,3,"Gudur, Nellore",Nellore,2250000,1041,2160,New
+144,Srea Real estate,BUILDER,3,"Kanuparthipadu, Nellore",Nellore,3400000,1888,1800,New
+145,Vijayalakshmi M,OWNER,2,"Kovur, Nellore",Nellore,5000000,2314,2160,Ready to move
+146,surya,OWNER,3,"Harinathpuram, Nellore",Nellore,5000000,2083,2400,New
+147,Md Ghouse Mohiddin,OWNER,3,"Sullurupeta Vatambedu Road, Nellore",Nellore,3400000,1416,2400,New
+148,Ronish,OWNER,3,"Dhanalakshmi Puram, Nellore",Nellore,4500000,2500,1800,New
+149,sreenu thongolu,OWNER,3,"Nellore Koduru Road, Nellore",Nellore,1850000,1027,1800,New
+150,V AnandaRao,OWNER,3,"Podalakur Road, Nellore",Nellore,5600000,933,6000,New
+151,Ramesh Reddy s,OWNER,3,"Ramji Nagar, Nellore",Nellore,750000,619,1210,New
+152,Sudhakar,OWNER,3,"Kothur, Nellore",Nellore,1200000,666,1800,New
+153,Srea Real estate,BUILDER,3,"Narasimhakonda Jonnawada Nellore Road, Nellore",Nellore,1000000,555,1800,New
+154,Sudhakar,OWNER,3,"Kanuparthipadu, Nellore",Nellore,3400000,1888,1800,New
+155,anusha,OWNER,3,"Kodurupadu, Nellore",Nellore,3166000,1319,2400,New
+156,Sreekanth,OWNER,3,"Childrens Park Road, Nellore",Nellore,6000000,3333,1800,New
+157,Dinesh,OWNER,3,"sullurpet, Nellore",Nellore,50000000,5081,9840,Resale
+158,Ronish,OWNER,3,"Dhanalakshmi Puram, Nellore",Nellore,2500000,1388,1800,New
+159,Realwealth,AGENT,3,"Dhanalakshmi Puram, Nellore",Nellore,2000000,1111,1800,New
+160,seller,VERIFIED OWNER,3,"Korramenugunta, Tirupati",Tirupati,6166000,4006,1539,Ready to move
+161,seller,VERIFIED OWNER,3,"Tiruchanur, Tirupati",Tirupati,8200000,3813,2150,Under Construction
+162,seller,VERIFIED OWNER,3,"Mallavaram, Tirupati",Tirupati,2150000,1194,1800,Resale
+163,Purnima Constructions,AGENT,3,"Renigunta, Tirupati",Tirupati,1600000,1142,1400,New
+164,Purnima Constructions,AGENT,3,"Renigunta, Tirupati",Tirupati,1955000,1086,1800,New
+165,Purnima Constructions,AGENT,3,"Renigunta, Tirupati",Tirupati,2000000,1111,1800,New
+166,suvarnabhoomi Developers Pvt Ltd,AGENT,3,"Gajulamandyam Road TP Road, Tirupati",Tirupati,1800000,694,2592,New
+167,Karthik,BUILDER,3,"Reddy and Reddys Colony, Tirupati",Tirupati,5680000,3594,1580,Ready to move
+168,lavanya infra,AGENT,3,"Ramanuja Circle, Tirupati",Tirupati,5200000,3151,1650,Ready to move
+169,Madhavi homes,AGENT,3,"Leela Mahal Circle, Tirupati",Tirupati,7530000,4591,1640,Ready to move
+170,bhavi madam,BUILDER,3,"Karakambadi Road, Tirupati",Tirupati,6350000,3802,1670,Ready to move
+171,Naishith,BUILDER,3,"Thummalagunta, Tirupati",Tirupati,5750000,1642,3500,Under Construction
+172,siva,BUILDER,3,"Thummalagunta, Tirupati",Tirupati,5700000,3496,1630,Under Construction
+173,Master Naishith,BUILDER,3,"Thummalagunta, Tirupati",Tirupati,6230000,3500,1780,Under Construction
+174,Dreams Constructions Tirupati,BUILDER,2,"Korramenugunta, Tirupati",Tirupati,4200000,4200,1000,Under Construction
+175,GVS,AGENT,2,"Thummalagunta, Tirupati",Tirupati,5400000,4372,1235,Under Construction
+176,PRASAD,BUILDER,2,"Gollapalle, Tirupati",Tirupati,4000000,2666,1500,Ready to move
+177,UV Realtors,BUILDER,3,"Khadi Colony, Tirupati",Tirupati,5450000,3406,1600,Ready to move
+178,sumathi madam,BUILDER,3,"Khadi Colony, Tirupati",Tirupati,6480000,3927,1650,Ready to move
+179,ramprad,BUILDER,3,"Karakambadi Road, Tirupati",Tirupati,5375000,3699,1453,Under Construction
+180,seller,VERIFIED OWNER,3,"KL Puram, Vizianagaram",Vizianagaram,4200000,2333,1800,Resale
+181,Nakkina agency,AGENT,2,"Pedathadivada, Vizianagaram",Vizianagaram,2200000,2200,1000,Ready to move
+182,Pavani Devolapers,AGENT,2,"Jammu Narayana puram, Vizianagaram",Vizianagaram,2200000,2200,1000,Ready to move
+183,ravi,BUILDER,2,"Jammu Narayana puram, Vizianagaram",Vizianagaram,2200000,2200,1000,Ready to move
+184,Msudhher,AGENT,3,"Dasannapet, Vizianagaram",Vizianagaram,2200000,162,13527,New
+185,karim,BUILDER,3,"Bhogapuram, Vizianagaram",Vizianagaram,3200000,1777,1800,New
+186,Venkat Estates,AGENT,3,"Kothapet, Vizianagaram",Vizianagaram,1898999,1249,1521,New
+187,Prasad properties,AGENT,3,"Bhogapuram Road, Vizianagaram",Vizianagaram,1800000,666,2700,New
+188,BHOGAPURAM REAL ESTATES,AGENT,3,"Jonnada Village Road, Vizianagaram",Vizianagaram,1670000,1111,1503,New
+189,AA GROUPS,AGENT,3,"Kothavalasa, Vizianagaram",Vizianagaram,1300000,722,1800,New
+190,prasad developers,AGENT,3,"Jonnada Village Road, Vizianagaram",Vizianagaram,2300000,1277,1800,New
+191,Rajesh,AGENT,3,"Denkada, Vizianagaram",Vizianagaram,1870000,1222,1530,New
+192,Kanishka Infra,AGENT,3,"SKota Vizianagaram Road, Vizianagaram",Vizianagaram,700000,388,1800,New
+193,Annu,AGENT,3,"Vizianagaram Tagarapuvalasa Road, Vizianagaram",Vizianagaram,1568000,800,1960,Resale
+194,seller,AGENT,3,"Dharmapuri, Vizianagaram",Vizianagaram,1630000,1207,1350,Resale
+195,KAPARDI,OWNER,3,"Bhogapuram, Vizianagaram",Vizianagaram,1800000,1204,1494,New
+196,Pavani,OWNER,3,"Korukonda, Vizianagaram",Vizianagaram,2100000,1166,1800,New
+197,T Hemant kumar,OWNER,3,"Bheemali, Vizianagaram",Vizianagaram,2200000,1333,1650,Resale
+198,Uniser,AGENT,3,"Lakkavarapu Kota, Vizianagaram",Vizianagaram,986000,741,1330,Resale
+199,sravan ganesh,OWNER,3,"Vizianagaram Cantonment, Vizianagaram",Vizianagaram,3000000,1666,1800,New
+200,seller,VERIFIED OWNER,3,"Rajeshwari Nagar, Kakinada",Kakinada,11900000,5529,2170,Ready to move
+201,seller,VERIFIED OWNER,3,"Jagannaickpur, Kakinada",Kakinada,1470000,1111,1323,Resale
+202,seller,VERIFIED OWNER,3,"Sarpavaram, Kakinada",Kakinada,1764000,1333,1323,Resale
+203,WAY2NET,AGENT,3,"Vakalapudi, Kakinada",Kakinada,6500000,2826,2300,Ready to move
+204,Jayaram,BUILDER,3,"NH216, Kakinada",Kakinada,3500000,2342,1494,New
+205,Hari K,OWNER,2,"Gokulam Street, Kakinada",Kakinada,3800000,3800,1000,Under Construction
+206,shareeqah,OWNER,1,"Cheediga, Kakinada",Kakinada,4500000,5000,900,Under Construction
+207,Sharath,OWNER,2,"Temple Street, Kakinada",Kakinada,5500000,5500,1000,Ready to move
+208,Chandu enterprises,OWNER,1,"Rayudupalem, Kakinada",Kakinada,1925000,3197,602,Under Construction
+209,Bhanu,AGENT,3,"Sarpavaram, Kakinada",Kakinada,1000000,1111,900,New
+210,shankar,OWNER,3,"Turangi, Kakinada",Kakinada,3650000,1275,2862,Resale
+211,Jayaram,BUILDER,3,"Thimmapuram, Kakinada",Kakinada,2000000,1330,1503,New
+212,seller,AGENT,3,"Kannayya Kapu Nagar, Kakinada",Kakinada,1198000,1116,1073,Resale
+213,Chandu Babu,BUILDER,2,"Ramanayapeta, Kakinada",Kakinada,5200000,4333,1200,Under Construction
+214,Anjana B,OWNER,2,"Pithapuram Kakinada Road, Kakinada",Kakinada,9000000,3571,2520,Ready to move
+215,Karthikeya,OWNER,2,"Sarpavaram Junction, Kakinada",Kakinada,12500000,5050,2475,Ready to move
+216,Hari Eliganti,OWNER,3,"Thimmapuram, Kakinada",Kakinada,6000000,5797,1035,Ready to move
+217,Guest,OWNER,3,"Sarpavaram, Kakinada",Kakinada,12200000,3315,3680,Resale
+218,K Nagendra,OWNER,2,"Indra Palem, Kakinada",Kakinada,3600000,3636,990,Ready to move
+219,user0178,OWNER,3,"Rama Rao Peta, Kakinada",Kakinada,5900000,4154,1420,Ready to move
+220,seller,VERIFIED OWNER,2,"Diwancheruvu, Rajahmundry",Rajahmundry,4900000,4454,1100,Under Construction
+221,seller,VERIFIED OWNER,3,"Diwancheruvu, Rajahmundry",Rajahmundry,8600000,3791,2268,Ready to move
+222,4closure,AGENT,3,"Aryapuram, Rajahmundry",Rajahmundry,4590000,7083,648,Resale
+223,seller,VERIFIED OWNER,3,"Diwancheruvu, Rajahmundry",Rajahmundry,8600000,3791,2268,Ready to move
+224,Srinivas,AGENT,3,"Diwancheruvu, Rajahmundry",Rajahmundry,8500000,5160,1647,Under Construction
+225,Chandu enterprises,OWNER,2,"Diwancheruvu, Rajahmundry",Rajahmundry,3300000,2400,1375,Under Construction
+226,Guest,OWNER,2,"Diwancheruvu, Rajahmundry",Rajahmundry,4500000,5625,800,Under Construction
+227,Sb Ventures,OWNER,3,"Kolamuru, Rajahmundry",Rajahmundry,7998999,4892,1635,Under Construction
+228,Jagan Mohan,OWNER,3,"Kolamuru, Rajahmundry",Rajahmundry,3250000,577,5625,New
+229,Prudhvi Raj,OWNER,3,"Police Quarters, Rajahmundry",Rajahmundry,7000000,341,20475,New
+230,Srinivas,AGENT,2,"Diwancheruvu, Rajahmundry",Rajahmundry,4900000,2975,1647,Under Construction
+231,Dsatyanarayana,BUILDER,2,"Rajahmundry Road, Rajahmundry",Rajahmundry,2310000,962,2400,Under Construction
+232,Umar Mukthar,OWNER,3,"Rajahmundry Air Port Road, Rajahmundry",Rajahmundry,3875000,1618,2394,New
+233,Genuine Real Estate Properties Investment,AGENT,2,"Morampudi, Rajahmundry",Rajahmundry,3600000,3789,950,Ready to move
+234,Raj,OWNER,3,"Diwancheruvu, Rajahmundry",Rajahmundry,2900000,2109,1375,Ready to move
+235,Guest,OWNER,2,"Diwancheruvu, Rajahmundry",Rajahmundry,4900000,5764,850,Under Construction
+236,JANARDHANAN,OWNER,2,"Diwancheruvu, Rajahmundry",Rajahmundry,4500000,3750,1200,Ready to move
+237,Indu Borusu,OWNER,2,"Morampudi, Rajahmundry",Rajahmundry,3400000,3238,1050,Ready to move
+238,seller,OWNER,2,"Lalacheruvu, Rajahmundry",Rajahmundry,3900000,3900,1000,Under Construction
+239,SATISH SS DEVELOPERS,OWNER,2,"Diwancheruvu, Rajahmundry",Rajahmundry,4900000,5764,850,Under Construction
+240,Mahalaxmi Developers,BUILDER,3,"Jamtha, Nagpur",Nagpur,4275000,2375,1800,New
+241,Vishal Infrastructure,BUILDER,2,"Wanadongri, Nagpur",Nagpur,2654000,2824,940,Under Construction
+242,Archi Builders And Developers Nagpur,BUILDER,3,"Somalwada, Nagpur",Nagpur,7998999,5747,1392,Under Construction
+243,Mahalaxmi Developers,BUILDER,3,"Jamtha, Nagpur",Nagpur,8312000,2375,3500,New
+244,Vishal Infrastructure,BUILDER,2,"Wanadongri, Nagpur",Nagpur,2400000,2824,850,Under Construction
+245,Mahalaxmi Developers,BUILDER,3,"Jamtha, Nagpur",Nagpur,7125000,2375,3000,New
+246,seller,VERIFIED OWNER,2,"Hazaripahad, Nagpur",Nagpur,4800000,4173,1150,Under Construction
+247,seller,VERIFIED OWNER,3,"Somalwada, Nagpur",Nagpur,7800000,5200,1500,Ready to move
+248,seller,VERIFIED OWNER,3,"Jamtha, Nagpur",Nagpur,1000000,1000,1000,Resale
+249,seller,VERIFIED OWNER,3,"Pipla, Nagpur",Nagpur,2900000,2396,1210,Resale
+250,seller,VERIFIED OWNER,2,"Wanadongri, Nagpur",Nagpur,2849000,2935,971,Under Construction
+251,seller,VERIFIED OWNER,2,"Pipla, Nagpur",Nagpur,3500000,3349,1045,Under Construction
+252,seller,VERIFIED OWNER,3,"Nandanvan, Nagpur",Nagpur,7000000,4898,1429,Under Construction
+253,seller,VERIFIED OWNER,3,"Hudkeshwar Bk, Nagpur",Nagpur,4500000,3750,1200,Under Construction
+254,seller,VERIFIED OWNER,4,"Pratap Nagar, Nagpur",Nagpur,9500000,5542,1714,Ready to move
+255,seller,VERIFIED OWNER,3,"Somalwada, Nagpur",Nagpur,6400000,4410,1451,Under Construction
+256,seller,VERIFIED OWNER,3,"Shantinagar Colony, Nagpur",Nagpur,5100000,4250,1200,Ready to move
+257,seller,VERIFIED OWNER,2,"Adyali, Nagpur",Nagpur,6700000,5726,1170,Under Construction
+258,seller,VERIFIED OWNER,3,"Gorewada, Nagpur",Nagpur,3999000,3100,1290,Ready to move
+259,seller,VERIFIED OWNER,2,"Zingabai Takli, Nagpur",Nagpur,2700000,2571,1050,Under Construction
+260,Soundlines Realty,BUILDER,2,"Panvel, Mumbai",Mumbai,5998000,6848,876,Under Construction
+261,Amar Realty,BUILDER,3,"Santacruz East, Mumbai",Mumbai,28900000,37146,778,Under Construction
+262,Origin Corp,BUILDER,2,"Mira Road East, Mumbai",Mumbai,9411000,14280,659,Under Construction
+263,Agami Realty,BUILDER,5,"Boisar, Mumbai",Mumbai,19900000,6813,2921,Under Construction
+264,Shreedham Group Builders and Developers,BUILDER,1,"Andheri West, Mumbai",Mumbai,12100000,32526,372,Ready to move
+265,Pride Group,BUILDER,2,"Saki Naka, Mumbai",Mumbai,14700000,22000,672,Under Construction
+266,Lalani Group,BUILDER,1,"Malad East, Mumbai",Mumbai,11200000,28940,387,Under Construction
+267,Marathon Group,BUILDER,2,"Mulund West, Mumbai",Mumbai,18100000,25000,724,Under Construction
+268,Dashmesh Infrastructure,BUILDER,2,"Badlapur East, Mumbai",Mumbai,3399000,6329,537,Under Construction
+269,Chaitanya Developers,BUILDER,3,"Andheri West, Mumbai",Mumbai,34400000,30000,1147,Under Construction
+270,Prima Terra Buildtech Pvt Ltd,BUILDER,1,"Kurla, Mumbai",Mumbai,10500000,23648,444,Under Construction
+271,Raymond Limited,BUILDER,2,"Thane West, Mumbai",Mumbai,14200000,25585,555,Under Construction
+272,Unimont Group,BUILDER,1,"Khopoli, Mumbai",Mumbai,2380000,4034,590,Under Construction
+273,Asshna Developers,BUILDER,2,"Andheri West, Mumbai",Mumbai,22599999,32992,685,Under Construction
+274,Puraniks Builders Pvt Ltd,BUILDER,1,"Thane West, Mumbai",Mumbai,4299000,10856,396,Under Construction
+275,Dev Drashti Group,BUILDER,2,"Bhiwandi, Mumbai",Mumbai,5724000,5300,1080,Ready to move
+276,Navnath Infrastructures Private Limited,BUILDER,1,"Goregaon East, Mumbai",Mumbai,10900000,27003,405,Under Construction
+277,Sairaj Enterprises,BUILDER,1,"Badlapur West, Mumbai",Mumbai,2351000,7583,311,Under Construction
+278,Royal Realtors Group Of Companies,BUILDER,2,"Malad West, Mumbai",Mumbai,14600000,22848,639,Under Construction
+279,Ayodhya Constructions,BUILDER,1,"Kurla, Mumbai",Mumbai,10600000,23000,461,Ready to move
+280,Kohinoor Group,BUILDER,2,"Kharadi, Pune",Pune,8100000,10561,767,Under Construction
+281,Ram India Group,BUILDER,1,"Fursungi, Pune",Pune,3575000,6809,525,Ready to move
+282,Lotus Group,BUILDER,2,"Charholi Budruk, Pune",Pune,3999000,5821,687,Under Construction
+283,Shri Samarth Group,BUILDER,2,"Moshi, Pune",Pune,3956000,5896,671,Under Construction
+284,Shree Sonigara Punamiya Associates,BUILDER,2,"Tathawade, Pune",Pune,5900000,8392,703,Under Construction
+285,Sapphire Developers,BUILDER,2,"Charholi Budruk, Pune",Pune,3584000,6255,573,Under Construction
+286,Parklane Construction LLP,BUILDER,2,"Sus, Pune",Pune,5850000,8013,730,Under Construction
+287,Shevi Group,BUILDER,2,"Moshi, Pune",Pune,5590000,8185,683,Under Construction
+288,Yashada Realty Group,BUILDER,1,"Moshi, Pune",Pune,2464000,6383,386,Under Construction
+289,Namrata Group,BUILDER,2,"Talegaon Dabhade, Pune",Pune,4693000,6812,689,Under Construction
+290,Aum Sanskruti Housing,BUILDER,3,"Wakad, Pune",Pune,10800000,10816,1000,Under Construction
+291,Spectrum Properties,BUILDER,3,"Kharadi, Pune",Pune,19700000,12654,1557,Under Construction
+292,Pawar Buildcon And Company,BUILDER,2,"Kirkatwadi, Pune",Pune,8999000,11435,787,Under Construction
+293,Naiknavare Pride AOP,BUILDER,2,"Mahalunge, Pune",Pune,10000000,12920,774,Under Construction
+294,Real Buildcon Builders And Developers,BUILDER,1,"Varale, Pune",Pune,2560000,5752,445,Under Construction
+295,Nirman Developers,BUILDER,1,"Ambegaon Budruk, Pune",Pune,4750000,9500,500,Ready to move
+296,Manav Group,BUILDER,2,"Rasta Peth, Pune",Pune,7362000,11224,656,Under Construction
+297,Saikrushna Developers,BUILDER,2,"Mamurdi, Pune",Pune,6750000,7401,912,Under Construction
+298,Nyati Group,BUILDER,3,"Baner, Pune",Pune,15000000,12366,1213,Under Construction
+299,Kalpataru Group,BUILDER,3,"Baner, Pune",Pune,25000000,14551,1718,Under Construction
+300,Kanaklaxmi Developers,BUILDER,1,"Panchavati, Nashik",Nashik,2500000,4496,556,Under Construction
+301,Samnani Group,BUILDER,3,"Dwarka, Nashik",Nashik,6998000,4650,1505,Under Construction
+302,The Avenue NX,BUILDER,4,"Satpur, Nashik",Nashik,18700000,6871,2736,Under Construction
+303,Harshal Hanumante Builders and Developers Pvt Ltd,BUILDER,2,"Makhmalabad, Nashik",Nashik,3415000,3502,976,Under Construction
+304,Jaikumar Constructions Ltd,BUILDER,3,"Hanuman Nagar, Nashik",Nashik,5357000,4105,1305,Under Construction
+305,Ravindra Developers,BUILDER,1,"Pathardi Phata, Nashik",Nashik,2050000,3361,610,Ready to move
+306,Aditya Developers,BUILDER,3,"Devlali, Nashik",Nashik,4997000,3897,1282,Under Construction
+307,Shinde And Shinde,BUILDER,4,"Gangapur, Nashik",Nashik,16299999,5722,2866,Under Construction
+308,Everest Buildtech,BUILDER,2,"Anandwalli Gaon, Nashik",Nashik,5423000,4700,1154,Under Construction
+309,Shree Harikrushna Developers,BUILDER,2,"Panchavati, Nashik",Nashik,4383000,3948,1110,Under Construction
+310,Pacific Builder,BUILDER,3,"Gangapur, Nashik",Nashik,4989000,3413,1462,Ready to move
+311,Samnani Group,BUILDER,3,"Dwarka, Nashik",Nashik,6998000,4650,1505,Under Construction
+312,The Avenue NX,BUILDER,4,"Satpur, Nashik",Nashik,18700000,6871,2736,Under Construction
+313,Harshal Hanumante Builders and Developers Pvt Ltd,BUILDER,2,"Makhmalabad, Nashik",Nashik,3786999,3500,1082,Under Construction
+314,Jaikumar Constructions Ltd,BUILDER,3,"Hanuman Nagar, Nashik",Nashik,5251000,4112,1277,Under Construction
+315,Ravindra Developers,BUILDER,2,"Pathardi Phata, Nashik",Nashik,2999000,3440,872,Ready to move
+316,Aditya Developers,BUILDER,3,"Devlali, Nashik",Nashik,4778000,3903,1224,Under Construction
+317,Shinde And Shinde,BUILDER,2,"Gangapur, Nashik",Nashik,8599000,5292,1625,Under Construction
+318,Everest Buildtech,BUILDER,2,"Anandwalli Gaon, Nashik",Nashik,5564000,4700,1184,Under Construction
+319,Shree Harikrushna Developers,BUILDER,3,"Panchavati, Nashik",Nashik,5043000,3955,1275,Under Construction
+320,seller,VERIFIED OWNER,2,"Waluj, Aurangabad",Aurangabad,2649000,2789,950,Ready to move
+321,seller,VERIFIED OWNER,2,"Satara Parisar, Aurangabad",Aurangabad,3400000,3090,1100,Under Construction
+322,seller,VERIFIED OWNER,3,"Usmanpura, Aurangabad",Aurangabad,9200000,6666,1380,Ready to move
+323,Arora associate,AGENT,3,"Satara Parisar, Aurangabad",Aurangabad,17900000,15911,1125,Ready to move
+324,Joy Housing,AGENT,3,"Pisadevi, Aurangabad",Aurangabad,7430000,4503,1650,Ready to move
+325,NexXen Solution pvt ltd,AGENT,3,"Gangapur Jahagir, Aurangabad",Aurangabad,1345000,1389,968,Resale
+326,Rahul dubey,AGENT,2,"Tisgaon, Aurangabad",Aurangabad,2651000,4168,636,Ready to move
+327,NexXen Solution pvt ltd,AGENT,3,"Gangapur Jahagir, Aurangabad",Aurangabad,1345000,1358,990,Resale
+328,Rahul dubey,AGENT,3,"Nakshtrawadi, Aurangabad",Aurangabad,1200000,1333,900,New
+329,Bhargav forcloser,AGENT,3,"Dharmapur, Aurangabad",Aurangabad,4150000,1296,3200,Resale
+330,4closure,AGENT,3,"Kanchanwadi, Aurangabad",Aurangabad,4865000,5585,871,Resale
+331,NexXen Solution pvt ltd,AGENT,3,"Gangapur Jahagir, Aurangabad",Aurangabad,1345000,1372,980,Resale
+332,Bhargav forcloser,AGENT,3,"Waluj, Aurangabad",Aurangabad,4339000,1296,3346,Resale
+333,Rahul dubey,AGENT,1,"Tisgaon, Aurangabad",Aurangabad,1900000,3304,575,Ready to move
+334,Swapnil,BUILDER,2,"Balapur, Aurangabad",Aurangabad,3400000,3683,923,Under Construction
+335,Mahendra Ramesh Shiradkar,OWNER,3,"Sut Girni Road, Aurangabad",Aurangabad,7990000,4755,1680,Ready to move
+336,Krashna Patil,OWNER,2,"Beed Bypass Padegaon, Aurangabad",Aurangabad,4000000,6504,615,Ready to move
+337,pravin raut,OWNER,2,"Itkheda, Aurangabad",Aurangabad,4500000,3600,1250,Ready to move
+338,Atchyutanand,OWNER,2,"Dashmesh Nagar, Aurangabad",Aurangabad,4300000,4584,938,Ready to move
+339,Ganesh,OWNER,2,"Shendraban, Aurangabad",Aurangabad,2700000,2842,950,Under Construction
+340,seller,VERIFIED OWNER,1,"Jule, Solapur",Solapur,1998999,2828,707,Ready to move
+341,seller,VERIFIED OWNER,3,"Soregaon, Solapur",Solapur,1300000,1083,1200,Resale
+342,seller,VERIFIED OWNER,2,"Jule, Solapur",Solapur,2199000,2822,779,Ready to move
+343,solapur construction?,AGENT,2,"Vasant Vihar, Solapur",Solapur,4000000,3636,1100,Under Construction
+344,solapur construction?,AGENT,1,"Rohini Nagar, Solapur",Solapur,3600000,3600,1000,Ready to move
+345,Shri Venkatesh Infrastructure Pvt Ltd,BUILDER,3,"Nehru Nagar, Solapur",Solapur,3640000,2300,1582,New
+346,Anurag kharat,OWNER,3,"Solapur Pune Highway, Solapur",Solapur,300000,300,1000,New
+347,solapur construction?,AGENT,3,"Shelgi, Solapur",Solapur,2000000,2000,1000,New
+348,rajeev,OWNER,2,"Jule, Solapur",Solapur,2500000,3125,800,Ready to move
+349,Ruksana shaikh,OWNER,2,"Ashok Nagar, Solapur",Solapur,4000000,3636,1100,Ready to move
+350,Priti Vyavahare,OWNER,2,"Pandharpur, Solapur",Solapur,2950000,2360,1250,Ready to move
+351,seller,OWNER,1,"Jule, Solapur",Solapur,1851000,2618,707,Ready to move
+352,Akash Mane,OWNER,3,"Dongaon Road, Solapur",Solapur,2318000,1900,1220,New
+353,user9999,OWNER,1,"Sakhar Peth, Solapur",Solapur,1143000,3571,320,Ready to move
+354,user,OWNER,3,"Akkalkot, Solapur",Solapur,800000,4000,200,Resale
+355,solapur construction?,AGENT,3,"Jule, Solapur",Solapur,4100000,2050,2000,Resale
+356,Shivraj Makai,OWNER,3,"Mallikarjun Nagar, Solapur",Solapur,350000,350,1000,New
+357,solapur construction?,AGENT,3,"Vasant Vihar, Solapur",Solapur,3500000,2536,1380,Resale
+358,solapur construction?,AGENT,3,"Saiful, Solapur",Solapur,1200000,1090,1100,New
+359,solapur construction?,AGENT,2,"Jule, Solapur",Solapur,4200000,4895,858,Ready to move
+360,Santosh Daberao,OWNER,2,"Dahigaon Gawande, Akola",Akola,4500000,3214,1400,Ready to move
+361,rajkumar ingale,OWNER,3,"Kapila Nagar, Akola",Akola,5300000,2453,2160,New
+362,Guest,OWNER,2,"Keshav Nagar, Akola",Akola,3800000,3615,1051,Ready to move
+363,Bhargav forcloser,AGENT,3,"Sawe Wadi, Latur",Latur,153500000,16268,9439,Resale
+364,LALIT PATHAK,OWNER,3,"Ausa, Latur",Latur,9000000,7826,1150,New
+365,Manali Parmar,OWNER,10,"Sawe Wadi, Latur",Latur,6000000,1500,4000,Ready to move
+366,Amit Vatkar,OWNER,3,"Harangul Bk, Latur",Latur,1500000,694,2160,Resale
+367,seller,VERIFIED OWNER,2,"Tukum, Chandrapur",Chandrapur,2600000,2541,1023,Ready to move
+368,Harry M,OWNER,3,"Rayatwari Colliery, Chandrapur",Chandrapur,3200000,998,3205,Resale
+369,Samarth Associates,BUILDER,2,"Chhatrapati Nagar, Chandrapur",Chandrapur,2600000,2260,1150,Ready to move
+370,user0080,OWNER,2,"Tukum, Chandrapur",Chandrapur,1700000,2635,645,Ready to move
+371,Preity Ramkumar,OWNER,2,"Bhadrawati, Chandrapur",Chandrapur,2200000,1833,1200,Ready to move
+372,seller,OWNER,3,"Civil Lines, Chandrapur",Chandrapur,2700000,2076,1300,Under Construction
+373,amit kove,OWNER,1,"Rayatwari Colliery, Chandrapur",Chandrapur,2000000,1333,1500,Ready to move
+374,Samarth Associates,BUILDER,2,"Kosara, Chandrapur",Chandrapur,1989999,1809,1100,Under Construction
+375,seller,OWNER,2,"Ramnagar, Chandrapur",Chandrapur,2800000,2240,1250,Under Construction
+376,Prithvi Realtors,OWNER,3,"Tukum, Chandrapur",Chandrapur,450000,375,1200,New
+377,seller,OWNER,3,"Civil Lines, Chandrapur",Chandrapur,2700000,2076,1300,Under Construction
+378,seller,OWNER,3,"Civil Lines, Chandrapur",Chandrapur,2700000,2076,1300,Under Construction
+379,seller,OWNER,3,"Civil Lines, Chandrapur",Chandrapur,2700000,2076,1300,Under Construction
+380,seller,OWNER,3,"Civil Lines, Chandrapur",Chandrapur,2700000,2076,1300,Under Construction
+381,seller,OWNER,2,"Civil Lines, Chandrapur",Chandrapur,2400000,2285,1050,Ready to move
+382,Mahesh Pachauri,OWNER,2,"Sindi Meghe, Wardha",Wardha,2400000,1951,1230,Ready to move
+383,Ayan Sheikh,OWNER,3,"Talegaon, Wardha",Wardha,10000000,4761,2100,New
+384,user2311,OWNER,2,"Master Colony, Wardha",Wardha,2000000,2000,1000,Ready to move
+385,Shekhar Lajurkar,OWNER,2,"Pipri, Wardha",Wardha,2800000,3393,825,Under Construction
+386,Malika Ajani,OWNER,2,"Nalwadi, Wardha",Wardha,3900000,4105,950,Ready to move
+387,user1615,OWNER,3,"Nalwadi, Wardha",Wardha,3200000,2077,1540,Resale
+388,Shekhar Lajurkar,OWNER,2,"Pipri, Wardha",Wardha,2800000,3393,825,Ready to move
+389,user1615,OWNER,3,"Nalwadi, Wardha",Wardha,3200000,2077,1540,Resale
+390,seller,VERIFIED OWNER,2,"Kagal, Kolhapur",Kolhapur,2500000,2777,900,Under Construction
+391,seller,VERIFIED OWNER,2,"Kasaba Bawada, Kolhapur",Kolhapur,4146000,4749,873,Ready to move
+392,seller,VERIFIED OWNER,1,"Laxtirth Vasahat, Kolhapur",Kolhapur,2400000,4705,510,Ready to move
+393,seller,VERIFIED OWNER,2,"Hari Om Nagar, Kolhapur",Kolhapur,6700000,5826,1150,Ready to move
+394,seller,VERIFIED OWNER,2,"Pachgaon, Kolhapur",Kolhapur,3000000,3333,900,Ready to move
+395,Guest,AGENT,4,"Shahupuri, Kolhapur",Kolhapur,8600000,4497,1912,Ready to move
+396,seller,VERIFIED OWNER,2,"Pachgaon, Kolhapur",Kolhapur,3000000,3333,900,Ready to move
+397,seller,VERIFIED OWNER,2,"Kagal, Kolhapur",Kolhapur,2700000,3103,870,Under Construction
+398,Chandan Jamdar,OWNER,3,"Shastri Nagar, Kolhapur",Kolhapur,12500000,8620,1450,Ready to move
+399,madhav lakhotia,OWNER,4,"New Shahupuri, Kolhapur",Kolhapur,10000000,5050,1980,Ready to move
+400,viplav kasbekar jadhav,OWNER,1,"Mangalwar Peth, Kolhapur",Kolhapur,3150000,5080,620,Ready to move
+401,Aditya Bhosale,OWNER,5,"Shivaji Peth A Ward, Kolhapur",Kolhapur,15000000,10000,1500,Ready to move
+402,Yashwant,OWNER,4,"Temblaiwadi, Kolhapur",Kolhapur,15000000,7500,2000,Ready to move
+403,Clear Property Consultant,AGENT,3,"Hari Om Nagar, Kolhapur",Kolhapur,4500000,2614,1721,Resale
+404,Ashish kadam,OWNER,1,"Puikhadi, Kolhapur",Kolhapur,4600000,2875,1600,Ready to move
+405,Gerald Johnson,OWNER,2,"Kalamba, Kolhapur",Kolhapur,4800000,4528,1060,Ready to move
+406,amish Adani,OWNER,1,"Tarabai Park, Kolhapur",Kolhapur,4600000,6433,715,Ready to move
+407,SACHIN B PATIL,OWNER,3,"Pachgaon, Kolhapur",Kolhapur,5500000,5945,925,Under Construction
+408,Bhimrao,OWNER,3,"Morewadi, Kolhapur",Kolhapur,5000000,5000,1000,Ready to move
+409,Shriya patil,OWNER,2,"Hari Om Nagar, Kolhapur",Kolhapur,4800000,6083,789,Ready to move
+410,Casagrand Builder Private Limited,BUILDER,3,"Krishnarajapura, Bangalore",Bangalore,11800000,5793,2037,Under Construction
+411,Nava Jyothi Construction,BUILDER,2,"Horamavu, Bangalore",Bangalore,6928000,5614,1234,Under Construction
+412,Ecolife Developers,BUILDER,3,"Varthur, Bangalore",Bangalore,14600000,8447,1737,Under Construction
+413,Shree Nandana Builders,BUILDER,2,"Electronic City Phase 1, Bangalore",Bangalore,5756000,4642,1240,Under Construction
+414,RRL Builders And Developers Pvt Ltd,BUILDER,2,"Sarjapur, Bangalore",Bangalore,4329000,3900,1110,Ready to move
+415,Salarpuria Sattva,BUILDER,4,"Frazer Town, Bangalore",Bangalore,116600000,22522,5180,Ready to move
+416,JRC Projects Pvt Ltd,BUILDER,2,"Avalahalli Off Sarjapur Road, Bangalore",Bangalore,11900000,7557,1575,Under Construction
+417,Assetz Property Group,BUILDER,2,"Begur, Bangalore",Bangalore,8300000,8565,969,Under Construction
+418,Saroj Ventures,BUILDER,3,"Karudabande Hosahalli, Bangalore",Bangalore,3229999,1615,2000,New
+419,Guru Punvaanii Properties,BUILDER,3,"Anekal City, Bangalore",Bangalore,3300000,2200,1500,New
+420,Navami Builders and Developers,BUILDER,3,"RR Nagar, Bangalore",Bangalore,13300000,8133,1641,Under Construction
+421,V Venture,BUILDER,2,"Begur, Bangalore",Bangalore,5532000,5787,957,Ready to move
+422,Dukes Stellar Infracon Developers LLP,BUILDER,3,"Devanahalli, Bangalore",Bangalore,5998000,3999,1500,New
+423,Unique Construction,BUILDER,3,"Hoskote, Bangalore",Bangalore,8936000,4298,2079,Ready to move
+424,LTG Infrastructure Limited,BUILDER,3,"Bidadi, Bangalore",Bangalore,3600000,2400,1500,New
+425,SNN Estates,BUILDER,4,"Hebbal, Bangalore",Bangalore,34100000,11118,3067,Ready to move
+426,Trifecta Projects Pvt Ltd,BUILDER,4,"Budigere Cross, Bangalore",Bangalore,18200000,6999,2604,Under Construction
+427,MVN Infrastructure,BUILDER,2,"Devanahalli, Bangalore",Bangalore,5247000,4894,1072,Under Construction
+428,Hoysala Projects Pvt Ltd,BUILDER,3,"Hebbal, Bangalore",Bangalore,13300000,7553,1769,Under Construction
+429,Annciya Projects LLP,BUILDER,3,"Electronic City Phase 1, Bangalore",Bangalore,9100000,6740,1350,Ready to move
+430,seller,VERIFIED OWNER,3,"Vijayanagar, Mysore",Mysore,11500000,5348,2150,Ready to move
+431,seller,VERIFIED OWNER,2,"Metagalli, Mysore",Mysore,7500000,5357,1400,Ready to move
+432,seller,VERIFIED OWNER,3,"Vijayanagar, Mysore",Mysore,13700000,6227,2200,Ready to move
+433,seller,VERIFIED OWNER,3,"Yadavagiri, Mysore",Mysore,13500000,7714,1750,Ready to move
+434,seller,VERIFIED OWNER,9,"Basavanahalli, Mysore",Mysore,32500000,5241,6200,Ready to move
+435,seller,VERIFIED OWNER,3,"Mahadeshwara Badavane Layout, Mysore",Mysore,7000000,5833,1200,Resale
+436,seller,VERIFIED OWNER,3,"Manuganahalli, Mysore",Mysore,1320000,1100,1200,Resale
+437,seller,VERIFIED OWNER,3,"Hebbal, Mysore",Mysore,4450000,2628,1693,Resale
+438,seller,VERIFIED OWNER,3,"Hootagalli, Mysore",Mysore,1560000,1344,1160,Resale
+439,Yesh Developers,AGENT,3,"Yadavagiri, Mysore",Mysore,2400000,600,4000,New
+440,Vinyas Group,AGENT,3,"Elivala, Mysore",Mysore,4051000,2700,1500,New
+441,Property Junction,AGENT,3,"Ring Road, Mysore",Mysore,10100000,5099,2000,New
+442,ESS ESS INFRASTRUCTURE PVT LTD,AGENT,3,"Bogadi Road, Mysore",Mysore,3300000,2750,1200,New
+443,Eagle Properties,AGENT,3,"Vijayanagar, Mysore",Mysore,12000000,3000,4000,Resale
+444,ESS ESS INFRASTRUCTURE PVT LTD,AGENT,3,"Bogadi Road, Mysore",Mysore,3200000,2666,1200,New
+445,Yesh Developers,AGENT,3,"Elivala, Mysore",Mysore,1200000,2000,600,New
+446,Yesh Developers,AGENT,3,"Elivala, Mysore",Mysore,2349000,1958,1200,New
+447,Yesh Developers,AGENT,3,"Yadavagiri, Mysore",Mysore,3000000,600,5000,New
+448,Vinyas Group,AGENT,3,"Ilavala Hobli, Mysore",Mysore,4200000,3500,1200,New
+449,Vinyas Group,AGENT,3,"Elivala, Mysore",Mysore,3201000,2667,1200,New
+450,seller,VERIFIED OWNER,3,"Brhampur, Gulbarga",Gulbarga,5800000,3625,1600,Ready to move
+451,seller,VERIFIED OWNER,3,"Kusnoor, Gulbarga",Gulbarga,3000000,1250,2400,Resale
+452,Sangamesh Mangalgi,OWNER,3,"Sedam Road, Gulbarga",Gulbarga,3800000,950,4000,New
+453,abdul sattar,OWNER,3,"Brhampur, Gulbarga",Gulbarga,3000000,2500,1200,Ready to move
+454,Janardhan,OWNER,2,"Biddapur Colony, Gulbarga",Gulbarga,2150000,2388,900,Ready to move
+455,MD KAISER,OWNER,3,"Kusnoor, Gulbarga",Gulbarga,6000000,2500,2400,Resale
+456,Praveen Kumar,OWNER,3,"Mominpura, Gulbarga",Gulbarga,7200000,3000,2400,Resale
+457,Laxmi,OWNER,5,"Kusnoor, Gulbarga",Gulbarga,9300000,3875,2400,Ready to move
+458,Safiq Pathan,OWNER,3,"Hagarga, Gulbarga",Gulbarga,2600000,2166,1200,Resale
+459,S P,OWNER,4,"Karuneshwar Nagar, Gulbarga",Gulbarga,9500000,3958,2400,Ready to move
+460,Ankush DHOLE,OWNER,3,"Kusnoor, Gulbarga",Gulbarga,1725000,1127,1530,Resale
+461,Pankaj C,OWNER,3,"Jagat, Gulbarga",Gulbarga,10000000,5599,1786,New
+462,emi plot,OWNER,3,"Rajapur, Gulbarga",Gulbarga,650000,541,1200,New
+463,Safiq Pathan,OWNER,3,"Hagarga, Gulbarga",Gulbarga,2600000,2166,1200,Resale
+464,seller,OWNER,3,"Godutai Nagar, Gulbarga",Gulbarga,13200000,5500,2400,Resale
+465,SNR Constructions,BUILDER,4,"Perungudi, Chennai",Chennai,14200000,7999,1780,Under Construction
+466,FL Builders,BUILDER,2,"Pammal, Chennai",Chennai,4257000,5500,774,Ready to move
+467,Greenway Construction Co,BUILDER,3,"Perungalathur, Chennai",Chennai,7592000,5599,1356,Under Construction
+468,ARC Developers,BUILDER,3,"Velachery, Chennai",Chennai,37800000,20213,1870,Under Construction
+469,Royal Civil Tech,BUILDER,2,"Iyappanthangal, Chennai",Chennai,6116000,6331,966,Under Construction
+470,Jones Foundations,BUILDER,4,"Ottiyambakkam, Chennai",Chennai,15300000,6750,2275,Ready to move
+471,Hansa Estates,BUILDER,3,"Nungambakkam, Chennai",Chennai,28300000,16000,1772,Ready to move
+472,Navin Housing Properties P LTD,BUILDER,2,"Vengaivasal, Chennai",Chennai,7100000,7085,1002,Under Construction
+473,MP Developers,BUILDER,2,"Pozhichalur, Chennai",Chennai,4532000,5500,824,Ready to move
+474,Emerald Haven Realty Limited,BUILDER,3,"Manapakkam, Chennai",Chennai,13600000,7577,1795,Under Construction
+475,Pallavarajha Properties Pvt Ltd,BUILDER,3,"Panayur, Chennai",Chennai,8044000,5999,1341,New
+476,Grand Magnum Housing Pvt Ltd,BUILDER,3,"Perungalathur, Chennai",Chennai,2511000,4200,598,New
+477,VGN Homes,BUILDER,3,"Ponmar, Chennai",Chennai,6158000,3999,1540,New
+478,DAC Promoters,BUILDER,2,"Kattankulathur, Chennai",Chennai,4972000,5382,924,Under Construction
+479,G square Housing,BUILDER,3,"Madhavaram, Chennai",Chennai,9900000,8250,1200,New
+480,Asset Tree Homes,BUILDER,2,"Anakaputhur, Chennai",Chennai,5376000,5850,919,Under Construction
+481,Casagrand Builder Private Limited,BUILDER,3,"Pallikaranai, Chennai",Chennai,9227000,4849,1903,Under Construction
+482,Ramaniyam Real Estate Builders,BUILDER,3,"K K Nagar, Chennai",Chennai,23900000,14414,1658,Under Construction
+483,TWD Properties,BUILDER,2,"Gerugambakkam, Chennai",Chennai,4126000,6457,639,Ready to move
+484,ETA Star Property Developers,BUILDER,3,"Sriperumbudur, Chennai",Chennai,5500000,2000,2750,New
+485,AUBURN PROPERTIES TRICHY,AGENT,3,"Thiruverumbur, Tiruchirapalli",Tiruchirapalli,1438000,799,1800,New
+486,MK Promoters,AGENT,3,"Nagamangalam, Tiruchirapalli",Tiruchirapalli,1339000,585,2289,New
+487,joyal,OWNER,2,"Thiruverumbur, Tiruchirapalli",Tiruchirapalli,3600000,4063,886,Ready to move
+488,AUBURN PROPERTIES TRICHY,AGENT,3,"Nagamangalam, Tiruchirapalli",Tiruchirapalli,900000,1500,600,New
+489,prajath Kalai gmail com,OWNER,2,"Nagamangalam, Tiruchirapalli",Tiruchirapalli,2200000,2200,1000,Under Construction
+490,Premier,AGENT,3,"Thiruverumbur, Tiruchirapalli",Tiruchirapalli,5500000,3965,1387,Under Construction
+491,Ram,OWNER,3,"Thiruverumbur, Tiruchirapalli",Tiruchirapalli,1917000,799,2400,New
+492,VSK Housing India,BUILDER,2,"Singanallur, Coimbatore",Coimbatore,9889000,7744,1277,Under Construction
+493,Greenfield Housing India Private Limited,BUILDER,3,"Pattanam, Coimbatore",Coimbatore,5373000,3604,1491,Ready to move
+494,ABI infrastructure,BUILDER,2,"Karamadai, Coimbatore",Coimbatore,3704999,2964,1250,Ready to move
+495,SRREE KRISHNAA PROPERTY DEVELOPERS,BUILDER,2,"Vadavalli, Coimbatore",Coimbatore,7498999,4089,1834,Ready to move
+496,Cordon Bleu,BUILDER,3,"Saravanampatty, Coimbatore",Coimbatore,12600000,5504,2300,Ready to move
+497,G square Housing,BUILDER,3,"Nanjundapuram, Coimbatore",Coimbatore,13200000,5051,2614,New
+498,Sura Housing,BUILDER,2,"Vedapatti, Coimbatore",Coimbatore,6456000,4811,1342,Under Construction
+499,Greenfield Housing India Private Limited,BUILDER,3,"Villankurichi, Coimbatore",Coimbatore,11299999,5973,1900,Ready to move
+500,VSK Housing India,BUILDER,2,"Singanallur, Coimbatore",Coimbatore,8309000,7883,1054,Under Construction
+501,Greenfield Housing India Private Limited,BUILDER,3,"Pattanam, Coimbatore",Coimbatore,5712000,3500,1632,Ready to move
+502,ABI infrastructure,BUILDER,3,"Karamadai, Coimbatore",Coimbatore,4700000,3760,1250,Ready to move
+503,SRREE KRISHNAA PROPERTY DEVELOPERS,BUILDER,3,"Vadavalli, Coimbatore",Coimbatore,8250000,3137,2630,Ready to move
+504,Cordon Bleu,BUILDER,2,"Saravanampatty, Coimbatore",Coimbatore,6925000,5540,1250,Ready to move
+505,G square Housing,BUILDER,3,"Nanjundapuram, Coimbatore",Coimbatore,13200000,5051,2614,New
+506,Sura Housing,BUILDER,2,"Vedapatti, Coimbatore",Coimbatore,5304000,5572,952,Under Construction
+507,Greenfield Housing India Private Limited,BUILDER,2,"Villankurichi, Coimbatore",Coimbatore,5973000,5973,1000,Ready to move
+508,VSK Housing India,BUILDER,4,"Singanallur, Coimbatore",Coimbatore,15700000,7680,2048,Under Construction
+509,Greenfield Housing India Private Limited,BUILDER,3,"Pattanam, Coimbatore",Coimbatore,4688000,3604,1301,Ready to move
+510,ABI infrastructure,BUILDER,1,"Karamadai, Coimbatore",Coimbatore,1998999,3333,600,Ready to move
+511,SRREE KRISHNAA PROPERTY DEVELOPERS,BUILDER,3,"Vadavalli, Coimbatore",Coimbatore,11500000,5826,1974,Ready to move
+512,PROPLEAF,AGENT,3,"Kodaikanal, Dindigul",Dindigul,5500000,4782,1150,Ready to move
+513,Home Konnect,AGENT,3,"Kodaikanal, Dindigul",Dindigul,5500000,4782,1150,Ready to move
+514,Hariharan,AGENT,3,"Malaipatty, Dindigul",Dindigul,792000,495,1600,New
+515,Raja Prakash,AGENT,3,"Seelapadi Mahalakshmi Nagar, Dindigul",Dindigul,588000,490,1200,New
+516,Raja Prakash,AGENT,3,"Balakrishnapuram, Dindigul",Dindigul,990000,825,1200,New
+517,SHUBHMANGALAM PROPERTIES,BUILDER,3,"Vedasandur Road, Dindigul",Dindigul,1687000,1350,1250,New
+518,Hariharan,AGENT,3,"Balakrishnapuram, Dindigul",Dindigul,2310000,825,2800,New
+519,Raja Prakash,AGENT,3,"Malaipatty, Dindigul",Dindigul,594000,495,1200,New
+520,Boopathi Selvaraj,AGENT,3,"Seelapadi Mahalakshmi Nagar, Dindigul",Dindigul,550000,550,1000,New
+521,PROPLEAF,AGENT,3,"Kodaikanal, Dindigul",Dindigul,3700000,6607,560,Ready to move
+522,Home Konnect,AGENT,3,"Kodaikanal, Dindigul",Dindigul,3700000,6607,560,Ready to move
+523,Hariharan,AGENT,3,"Malaipatty, Dindigul",Dindigul,1386000,495,2800,New
+524,Dindigul Tech,AGENT,2,"Natham Road, Dindigul",Dindigul,4000000,3333,1200,Ready to move
+525,Boopathi Selvaraj,AGENT,2,"Chettinayakanpatti, Dindigul",Dindigul,3500000,2916,1200,Ready to move
+526,Amar,AGENT,2,"Athoor, Dindigul",Dindigul,2500000,2083,1200,Ready to move
+527,Dindigul Tech,AGENT,3,"NH83, Dindigul",Dindigul,1000000,666,1500,New
+528,Dindigul Tech,AGENT,3,"EB Colony, Dindigul",Dindigul,6000000,3636,1650,Ready to move
+529,PROPLEAF,AGENT,3,"Kodaikanal, Dindigul",Dindigul,7500000,5905,1270,Ready to move
+530,Home Konnect,AGENT,3,"Kodaikanal, Dindigul",Dindigul,7500000,5905,1270,Ready to move
+531,Amar,AGENT,2,"EB Colony, Dindigul",Dindigul,4000000,3333,1200,Ready to move
+532,seller,VERIFIED OWNER,2,"Thindal, Erode",Erode,2500000,2500,1000,Under Construction
+533,seller,VERIFIED OWNER,3,"Thindal, Erode",Erode,6000000,2198,2729,Resale
+534,Sunilparab,AGENT,1,"Sathyamangalam, Erode",Erode,7800000,13448,580,Ready to move
+535,RAMYA,OWNER,3,"Thindal, Erode",Erode,2486000,2200,1130,Resale
+536,Guest,OWNER,3,"Nagaractchi Nagar, Erode",Erode,2000000,1333,1500,Resale
+537,SARAVANAN,AGENT,3,"Villarasampatti, Erode",Erode,4000000,2083,1920,New
+538,dreamhome housingproperties,OWNER,3,"Perundurai, Erode",Erode,1500000,1250,1200,New
+539,seller,OWNER,2,"Thindal, Erode",Erode,2100000,1750,1200,Ready to move
+540,Suresh Kumar,OWNER,3,"Perundurai, Erode",Erode,1170000,650,1800,New
+541,Paarthiban,OWNER,3,"Thindal, Erode",Erode,3000000,2307,1300,Resale
+542,ASNeedha,BUILDER,2,"Perundurai, Erode",Erode,4200000,2800,1500,Ready to move
+543,Ayngaran Avenue,BUILDER,3,"Perundurai, Erode",Erode,2039999,1700,1200,New
+544,Ayangaran Castle,AGENT,3,"Perundurai, Erode",Erode,2039999,1700,1200,New
+545,Ayngarn castle,AGENT,3,"Perundurai, Erode",Erode,2039999,1700,1200,New
+546,sai kamesh,OWNER,3,"Thindal, Erode",Erode,30000000,1200,25000,New
+547,Suresh Kumar,OWNER,3,"Perundurai, Erode",Erode,1680000,1400,1200,New
+548,Karthick d,OWNER,1,"Thindal, Erode",Erode,2800000,3500,800,Under Construction
+549,Perumal S,OWNER,2,"Rangampalayam, Erode",Erode,3100000,2066,1500,Under Construction
+550,Manikandan,OWNER,2,"Perundurai, Erode",Erode,3300000,2750,1200,Under Construction
+551,user6282,OWNER,2,"Thindal, Erode",Erode,3500000,4117,850,Under Construction
+552,seller,VERIFIED OWNER,4,"Kumbakonam, Thanjavur",Thanjavur,7500000,3289,2280,Ready to move
+553,seller,VERIFIED OWNER,2,"Kumbakonam, Thanjavur",Thanjavur,5300000,4818,1100,Under Construction
+554,seller,VERIFIED OWNER,10,"Anna Nagar, Thanjavur",Thanjavur,16000000,3200,5000,Ready to move
+555,Sri Realty,AGENT,3,"Kumbakonam, Thanjavur",Thanjavur,2700000,1500,1800,Resale
+556,abi,BUILDER,3,"Kumbakonam Bypass Road, Thanjavur",Thanjavur,875000,875,1000,New
+557,vcp Ranjitha,BUILDER,3,"Kumbakonam, Thanjavur",Thanjavur,930000,775,1200,New
+558,VCPPlots Promotors,AGENT,3,"Sengipatti, Thanjavur",Thanjavur,900000,750,1200,New
+559,VCP RAJA,BUILDER,3,"Vallam Orathanadu Main Road, Thanjavur",Thanjavur,600000,400,1500,New
+560,VCP Realtors,BUILDER,3,"Kumbakonam, Thanjavur",Thanjavur,816000,680,1200,New
+561,VCP REALTORS,AGENT,3,"Sengipatti, Thanjavur",Thanjavur,1575000,1050,1500,New
+562,Vcp,BUILDER,3,"Kumbakonam, Thanjavur",Thanjavur,1750000,1750,1000,New
+563,abi,BUILDER,3,"Kumbakonam, Thanjavur",Thanjavur,1050000,1200,875,New
+564,vcp Ranjitha,BUILDER,3,"Kumbakonam, Thanjavur",Thanjavur,930000,775,1200,New
+565,VCPPlots Promotors,AGENT,3,"Kumbakonam, Thanjavur",Thanjavur,875000,875,1000,New
+566,VCP RAJA,BUILDER,3,"Vallam Orathanadu Main Road, Thanjavur",Thanjavur,600000,400,1500,New
+567,VCP Realtors,BUILDER,3,"Kumbakonam, Thanjavur",Thanjavur,816000,680,1200,New
+568,Vcp,BUILDER,3,"Kumbakonam, Thanjavur",Thanjavur,1750000,1750,1000,New
+569,VCP REALTORS,AGENT,3,"Sengipatti, Thanjavur",Thanjavur,1575000,1050,1500,New
+570,abi,BUILDER,3,"Pillayarpatti layout, Thanjavur",Thanjavur,825000,550,1500,New
+571,vcp Ranjitha,BUILDER,3,"Kumbakonam, Thanjavur",Thanjavur,1147000,850,1350,New
+572,seller,VERIFIED OWNER,3,"Gorimedu, Salem",Salem,15000000,3988,3761,Resale
+573,seller,VERIFIED OWNER,2,"Karuppur, Salem",Salem,4500000,4090,1100,Ready to move
+574,Casagrand Rent Assure,AGENT,3,"Thandalam, Salem",Salem,950000,1583,600,Resale
+575,Guest,OWNER,3,"Ayodhiyapatinam, Salem",Salem,648000,750,864,New
+576,seller,OWNER,3,"Ayodhiyapatinam, Salem",Salem,3368000,2000,1684,New
+577,Raja,OWNER,3,"Poonthandalam, Salem",Salem,3600000,2000,1800,New
+578,Bhargav forcloser,AGENT,1,"Chennai Port Trust, Salem",Salem,14100000,15058,943,Ready to move
+579,Guest,OWNER,3,"Masinaickenpatti, Salem",Salem,630000,1050,600,New
+580,seller,VERIFIED OWNER,3,"Sivathapuram, Salem",Salem,5500000,3386,1624,Resale
+581,seller,OWNER,3,"Ayodhiyapatinam, Salem",Salem,2500000,2000,1250,New
+582,Guest,OWNER,3,"Ayodhiyapatinam, Salem",Salem,3062000,1750,1750,New
+583,HRS,BUILDER,2,"Gorimedu, Salem",Salem,8500000,4722,1800,Ready to move
+584,Right choice,BUILDER,2,"Ayodhiyapatinam, Salem",Salem,3500000,2333,1500,Under Construction
+585,Murugan Realtors,BUILDER,3,"Fairlands, Salem",Salem,5000000,5000,1000,New
+586,Thirumurugan Grand Properties,BUILDER,3,"Fairlands, Salem",Salem,5000000,5000,1000,New
+587,Tamizharasan,BUILDER,3,"Ayothiyapattinam Belur Kilakkadu Road, Salem",Salem,1275000,850,1500,New
+588,Dilip Kumar,OWNER,3,"Minnampalli, Salem",Salem,3192000,2150,1485,Resale
+589,HRS,BUILDER,2,"Manguppai, Salem",Salem,6300000,3937,1600,Ready to move
+590,Karthik,OWNER,3,"Karuppur, Salem",Salem,1800000,1500,1200,New
+591,Hari,OWNER,3,"Karuppur, Salem",Salem,1800000,1500,1200,New
+592,yesbroker,AGENT,3,"Sevoor, Vellore",Vellore,6825000,2100,3250,New
+593,Ap promotets,AGENT,3,"Arcot, Vellore",Vellore,2650000,2650,1000,New
+594,Ruban samy,BUILDER,3,"Katpadi, Vellore",Vellore,2980000,1490,2000,New
+595,Anand Leo,OWNER,3,"Rangapuram, Vellore",Vellore,4000000,1635,2445,Resale
+596,promoters,BUILDER,3,"Arcot Road, Vellore",Vellore,2240000,2240,1000,New
+597,KUMAR,AGENT,3,"Katpadi, Vellore",Vellore,740000,740,1000,New
+598,AP promoters,BUILDER,3,"Katpadi, Vellore",Vellore,1000000,1000,1000,New
+599,Ap promoter,AGENT,3,"Vaduganthangal, Vellore",Vellore,690000,690,1000,New
+600,Ap promoter,AGENT,3,"Arcot Road, Vellore",Vellore,2650000,2650,1000,New
+601,ap promoters,BUILDER,3,"Walajapet, Vellore",Vellore,1250000,1250,1000,New
+602,KUMAR,AGENT,3,"Bangalore Road, Vellore",Vellore,1200000,1200,1000,New
+603,Ruban samy,BUILDER,3,"Katpadi, Vellore",Vellore,3576000,1490,2400,New
+604,Ap promotets,AGENT,3,"Bangalore Road, Vellore",Vellore,1200000,1200,1000,New
+605,promoters,BUILDER,3,"Bangalore Road, Vellore",Vellore,1200000,1200,1000,New
+606,Shoba,AGENT,2,"Katpadi, Vellore",Vellore,3050000,2541,1200,Under Construction
+607,AP promoters,BUILDER,3,"Arcot, Vellore",Vellore,350000,350,1000,New
+608,Green grass,BUILDER,3,"Nandiyalam Road, Vellore",Vellore,3000000,2500,1200,New
+609,KUMAR,AGENT,3,"Arcot, Vellore",Vellore,2650000,2650,1000,New
+610,promoters,BUILDER,3,"Arcot Road, Vellore",Vellore,2650000,2650,1000,New
+611,Pradeep,OWNER,2,"Katpadi, Vellore",Vellore,5500000,6666,825,Ready to move
+612,seller,VERIFIED OWNER,4,"Arappuramukku, Thiruvananthapuram",Thiruvananthapuram,9600000,4173,2300,Ready to move
+613,Bhargav forcloser,AGENT,3,"Pazhavadi, Thiruvananthapuram",Thiruvananthapuram,3500000,1083,3229,Resale
+614,Bhargav forcloser,AGENT,3,"Chirayinkeezhu, Thiruvananthapuram",Thiruvananthapuram,3800000,726,5231,Resale
+615,PREMIUM VILLAS,AGENT,4,"Kowdiar, Thiruvananthapuram",Thiruvananthapuram,13500000,6136,2200,Under Construction
+616,Bhargav forcloser,AGENT,3,"Varkala, Thiruvananthapuram",Thiruvananthapuram,31500000,1393,22604,Resale
+617,DEEPAK SUKUMARAPILLAI,OWNER,3,"Thirumala, Thiruvananthapuram",Thiruvananthapuram,9200000,1499,6135,New
+618,Rajat Pillai,OWNER,3,"Kazhakkoottam, Thiruvananthapuram",Thiruvananthapuram,12000000,2222,5400,Resale
+619,PREMIUM VILLAS,AGENT,3,"Kazhakkoottam, Thiruvananthapuram",Thiruvananthapuram,5950000,3966,1500,Under Construction
+620,PREMIUM VILLAS,AGENT,4,"Kattaikonam, Thiruvananthapuram",Thiruvananthapuram,13500000,6136,2200,Under Construction
+621,user5347,OWNER,4,"Pazhavadi, Thiruvananthapuram",Thiruvananthapuram,8000000,4848,1650,Ready to move
+622,Sreekumar Nair,OWNER,3,"Menamkulam, Thiruvananthapuram",Thiruvananthapuram,6500000,4642,1400,Ready to move
+623,Saju Damodaran,OWNER,4,"Souparnika Nagar, Thiruvananthapuram",Thiruvananthapuram,4000000,2162,1850,Ready to move
+624,user4387,OWNER,2,"Ookkodu, Thiruvananthapuram",Thiruvananthapuram,3000000,3157,950,Ready to move
+625,howner,OWNER,3,"Malayinkeezh, Thiruvananthapuram",Thiruvananthapuram,3000000,2854,1051,Ready to move
+626,vinods,OWNER,3,"Mannanthala, Thiruvananthapuram",Thiruvananthapuram,2500000,1851,1350,New
+627,howner,OWNER,4,"Malayinkeezh, Thiruvananthapuram",Thiruvananthapuram,5400000,2571,2100,Ready to move
+628,PREMIUM VILLAS,AGENT,4,"Sreekariyam, Thiruvananthapuram",Thiruvananthapuram,13500000,6136,2200,Under Construction
+629,PREMIUM VILLAS,AGENT,3,"Kesavadasapuram, Thiruvananthapuram",Thiruvananthapuram,5950000,3966,1500,Under Construction
+630,PREMIUM VILLAS,AGENT,3,"Pattoor, Thiruvananthapuram",Thiruvananthapuram,5950000,3966,1500,Under Construction
+631,PREMIUM VILLAS,AGENT,3,"Pattom, Thiruvananthapuram",Thiruvananthapuram,5950000,3966,1500,Under Construction
+632,seller,VERIFIED OWNER,4,"Cheranalloor, Kochi",Kochi,12500000,6259,1997,Ready to move
+633,seller,VERIFIED OWNER,2,"Kakkanad, Kochi",Kochi,5200000,3427,1517,Ready to move
+634,seller,VERIFIED OWNER,3,"Kakkanad, Kochi",Kochi,6998999,4978,1406,Ready to move
+635,seller,VERIFIED OWNER,2,"Cheranalloor, Kochi",Kochi,7000000,7777,900,Ready to move
+636,seller,VERIFIED OWNER,3,"Kakkanad, Kochi",Kochi,4800000,3443,1394,Ready to move
+637,seller,VERIFIED OWNER,2,"vyttila, Kochi",Kochi,3300000,3882,850,Ready to move
+638,seller,VERIFIED OWNER,2,"Edappally, Kochi",Kochi,4600000,4590,1002,Ready to move
+639,seller,VERIFIED OWNER,3,"Periyar Nagar, Kochi",Kochi,5750000,4259,1350,Ready to move
+640,seller,VERIFIED OWNER,4,"Kuzhivelippady, Kochi",Kochi,6200000,3444,1800,Ready to move
+641,seller,VERIFIED OWNER,3,"Maradu, Kochi",Kochi,7450000,5687,1310,Ready to move
+642,seller,VERIFIED OWNER,3,"Palarivattom, Kochi",Kochi,6000000,4680,1282,Ready to move
+643,seller,VERIFIED OWNER,3,"Kakkanad, Kochi",Kochi,7000000,4000,1750,Ready to move
+644,seller,VERIFIED OWNER,2,"Vytilla, Kochi",Kochi,7000000,5000,1400,Ready to move
+645,seller,VERIFIED OWNER,4,"Chullickal, Kochi",Kochi,15500000,5083,3049,Ready to move
+646,seller,VERIFIED OWNER,3,"Palarivattom, Kochi",Kochi,9300000,5499,1691,Ready to move
+647,Property Junction,AGENT,4,"Marine Drive, Kochi",Kochi,27400000,9364,2930,Ready to move
+648,Yes Property,AGENT,4,"Marine Drive, Kochi",Kochi,48000000,12972,3700,Under Construction
+649,Punya Properties,AGENT,8,"Thammanam, Kochi",Kochi,90000000,12500,7200,Ready to move
+650,Shwas Homes,AGENT,1,"Aluva, Kochi",Kochi,1998999,3998,500,Ready to move
+651,Yes Property Ventures Pvt Ltd,AGENT,3,"Edappally, Kochi",Kochi,12000000,7894,1520,Under Construction
+652,Kiera Homes,BUILDER,2,"Mehrauli, Delhi",Delhi,5000000,5555,900,Ready to move
+653,Kiera Homes,BUILDER,3,"Vasant Kunj, Delhi",Delhi,7000000,5833,1200,Ready to move
+654,Kiera Homes,BUILDER,2,"Vasant Kunj, Delhi",Delhi,5000000,6250,800,Ready to move
+655,seller,VERIFIED OWNER,2,"Subhash Nagar, Delhi",Delhi,11500000,12777,900,Ready to move
+656,seller,VERIFIED OWNER,3,"Lajpat Nagar, Delhi",Delhi,30500000,16944,1800,Ready to move
+657,seller,VERIFIED OWNER,3,"Bindapur, Delhi",Delhi,4300000,4300,1000,Ready to move
+658,seller,VERIFIED OWNER,2,"Dwarka Mor, Delhi",Delhi,2200000,4400,500,Ready to move
+659,seller,VERIFIED OWNER,2,"Dwarka Mor, Delhi",Delhi,3000000,4000,750,Ready to move
+660,seller,VERIFIED OWNER,2,"Rohini sector 24, Delhi",Delhi,3500000,5833,600,Ready to move
+661,seller,VERIFIED OWNER,4,"Sector 14 Rohini, Delhi",Delhi,36000000,12000,3000,Ready to move
+662,seller,VERIFIED OWNER,3,"Sector 22 Rohini, Delhi",Delhi,5400000,9000,600,Ready to move
+663,seller,VERIFIED OWNER,3,"Hastsal, Delhi",Delhi,4000000,4000,1000,Ready to move
+664,seller,VERIFIED OWNER,4,"Vasant Kunj, Delhi",Delhi,33000000,27500,1200,Ready to move
+665,seller,VERIFIED OWNER,3,"Sagar Pur, Delhi",Delhi,4400000,6111,720,Ready to move
+666,seller,VERIFIED OWNER,2,"vikaspuri, Delhi",Delhi,8499000,7391,1150,Ready to move
+667,seller,VERIFIED OWNER,1,"Model Town, Delhi",Delhi,3600000,8089,445,Ready to move
+668,seller,VERIFIED OWNER,3,"Sector 4 Dwarka, Delhi",Delhi,13000000,10196,1275,Ready to move
+669,seller,VERIFIED OWNER,3,"Bali Nagar, Delhi",Delhi,27500000,12500,2200,Ready to move
+670,seller,VERIFIED OWNER,2,"Najafgarh, Delhi",Delhi,4000000,3838,1042,Ready to move
+671,seller,VERIFIED OWNER,3,"Sector 23 Rohini, Delhi",Delhi,6000000,7407,810,Ready to move
+672,Rishita Developer,BUILDER,4,"Gomti Nagar, Lucknow",Lucknow,24300000,6891,3530,Under Construction
+673,Rishita Developer,BUILDER,4,"Gomti Nagar, Lucknow",Lucknow,24300000,6891,3530,Under Construction
+674,Rishita Developer,BUILDER,4,"Gomti Nagar, Lucknow",Lucknow,23400000,6897,3398,Under Construction
+675,seller,VERIFIED OWNER,2,"Alambagh, Lucknow",Lucknow,5586000,4416,1265,Ready to move
+676,seller,VERIFIED OWNER,3,"Cantonment, Lucknow",Lucknow,1300000,1300,1000,Resale
+677,seller,VERIFIED OWNER,3,"Telibagh, Lucknow",Lucknow,1700000,1700,1000,Resale
+678,seller,VERIFIED OWNER,2,"Rajajipuram, Lucknow",Lucknow,2400000,3428,700,Ready to move
+679,seller,VERIFIED OWNER,3,"Sarojini Nagar, Lucknow",Lucknow,2700000,2250,1200,Ready to move
+680,seller,VERIFIED OWNER,3,"Bakshi Ka Talab, Lucknow",Lucknow,5200000,3354,1550,Ready to move
+681,seller,VERIFIED OWNER,3,"Bani, Lucknow",Lucknow,1250000,1000,1250,Resale
+682,seller,VERIFIED OWNER,3,"Lolai, Lucknow",Lucknow,2250000,2250,1000,Resale
+683,seller,VERIFIED OWNER,3,"Hans Khera, Lucknow",Lucknow,1300000,1300,1000,Resale
+684,seller,VERIFIED OWNER,2,"Jankipuram Extension, Lucknow",Lucknow,5000000,4000,1250,Ready to move
+685,seller,VERIFIED OWNER,3,"Gomti Nagar Extension, Lucknow",Lucknow,1499000,1499,1000,Resale
+686,seller,VERIFIED OWNER,3,"Mohanlalganj, Lucknow",Lucknow,4492000,599,7500,Resale
+687,seller,VERIFIED OWNER,3,"Golf City, Lucknow",Lucknow,1400000,1400,1000,Resale
+688,seller,VERIFIED OWNER,3,"Faridipur, Lucknow",Lucknow,899000,899,1000,Resale
+689,seller,VERIFIED OWNER,3,"Omaxe City, Lucknow",Lucknow,4200000,3181,1320,Ready to move
+690,seller,VERIFIED OWNER,2,"Mohanlalganj, Lucknow",Lucknow,4800000,4733,1014,Under Construction
+691,seller,VERIFIED OWNER,3,"Triveni Nagar, Lucknow",Lucknow,6500000,8953,726,Ready to move
+692,Shreeji Corporation,BUILDER,3,"Nava Naroda, Ahmedabad",Ahmedabad,8309999,3333,2493,Under Construction
+693,Hari Om Group,BUILDER,1,"Bopal, Ahmedabad",Ahmedabad,2400000,6451,373,Under Construction
+694,Aurous Buildcon LLP,BUILDER,2,"New Maninagar, Ahmedabad",Ahmedabad,6814000,5222,1305,Under Construction
+695,Laxmi developer,BUILDER,2,"Jagatpur, Ahmedabad",Ahmedabad,5899000,4521,1305,Under Construction
+696,Paarijat Group,BUILDER,2,"Vatva, Ahmedabad",Ahmedabad,2949000,2580,1143,Under Construction
+697,Shri Parshva Realty,BUILDER,2,"Bopal, Ahmedabad",Ahmedabad,4046000,3250,1245,Under Construction
+698,Sharanya Buildcon,BUILDER,3,"Shilaj, Ahmedabad",Ahmedabad,7917000,4350,1820,Under Construction
+699,Astha Projects,BUILDER,2,"Vasna, Ahmedabad",Ahmedabad,5544000,7200,770,Under Construction
+700,I Shree Khodal Developers,BUILDER,4,"Lambha, Ahmedabad",Ahmedabad,7500000,4026,1863,Under Construction
+701,Tatva Infrastructure,BUILDER,4,"Vastral, Ahmedabad",Ahmedabad,10200000,3633,2835,Under Construction
+702,Kaamnath Developers,BUILDER,2,"Sanand, Ahmedabad",Ahmedabad,2800000,2572,1089,Under Construction
+703,Tri Realty,BUILDER,3,"Chandkheda, Ahmedabad",Ahmedabad,6970000,3778,1845,Under Construction
+704,Motherland Infrature,BUILDER,3,"Sola, Ahmedabad",Ahmedabad,16200000,5643,2871,Under Construction
+705,Shubham Developers,BUILDER,2,"Sanand, Ahmedabad",Ahmedabad,2839000,2222,1278,Under Construction
+706,Goyal Co HN Safal,BUILDER,2,"Shela, Ahmedabad",Ahmedabad,4422000,3994,1107,Ready to move
+707,DR Infrastructure,BUILDER,3,"Shela, Ahmedabad",Ahmedabad,7718000,4300,1795,Under Construction
+708,Dharti Developers Gujarat,BUILDER,3,"Shilaj, Ahmedabad",Ahmedabad,17500000,6642,2635,Under Construction
+709,ELENZA DEVELOPERS LLP,BUILDER,3,"Shela, Ahmedabad",Ahmedabad,6210000,3600,1725,Under Construction
+710,Ananya Realty,BUILDER,2,"Tragad, Ahmedabad",Ahmedabad,4200000,3889,1080,Under Construction
+711,Saanvi Nirman,BUILDER,4,"Bopal, Ahmedabad",Ahmedabad,16500000,5300,3125,Under Construction
+712,seller,VERIFIED OWNER,4,"Nana Mava, Rajkot",Rajkot,13700000,8782,1560,Ready to move
+713,seller,VERIFIED OWNER,3,"Mavdi, Rajkot",Rajkot,6300000,5478,1150,Ready to move
+714,seller,VERIFIED OWNER,3,"kalawad road, Rajkot",Rajkot,7000000,5384,1300,Ready to move
+715,seller,VERIFIED OWNER,5,"Nana Mava, Rajkot",Rajkot,29900000,12239,2451,Ready to move
+716,seller,VERIFIED OWNER,1,"Sadar, Rajkot",Rajkot,2500000,5555,450,Ready to move
+717,seller,VERIFIED OWNER,3,"Panchayat Nagar, Rajkot",Rajkot,12400000,10080,1240,Ready to move
+718,seller,VERIFIED OWNER,3,"Sadar, Rajkot",Rajkot,14000000,7954,1760,Ready to move
+719,seller,VERIFIED OWNER,3,"Sadar, Rajkot",Rajkot,8499000,8357,1017,Resale
+720,Cleardealscoin,AGENT,3,"Mota Mava, Rajkot",Rajkot,8000000,5555,1440,Ready to move
+721,Guest,AGENT,1,"Vajdi, Rajkot",Rajkot,4500000,8858,508,Under Construction
+722,Rahul singh,OWNER,1,"Mota Mava, Rajkot",Rajkot,2300000,3357,685,Ready to move
+723,seller,VERIFIED OWNER,3,"Sadar, Rajkot",Rajkot,14000000,8000,1750,Ready to move
+724,Bhargav forcloser,AGENT,3,"Mavdi, Rajkot",Rajkot,3390000,4318,785,Resale
+725,Jayesh,OWNER,3,"Raiya Road, Rajkot",Rajkot,6075000,9642,630,Ready to move
+726,Shreeji Enterprise,OWNER,3,"Airport Road, Rajkot",Rajkot,8550000,11176,765,Ready to move
+727,Mayur,OWNER,3,"Railnagar, Rajkot",Rajkot,3650000,5793,630,Ready to move
+728,RAXIT,OWNER,2,"Gundavadi, Rajkot",Rajkot,3499000,5384,650,Ready to move
+729,Praful Patel,OWNER,4,"Mavdi Main Road, Rajkot",Rajkot,11000000,5238,2100,Ready to move
+730,user2240,OWNER,2,"Sardarnagar, Rajkot",Rajkot,3200000,5071,631,Ready to move
+731,HITESHBHAI B BHUVA,OWNER,1,"Mavdi, Rajkot",Rajkot,2291000,4874,470,Ready to move
+732,seller,VERIFIED OWNER,3,"Hatod, Indore",Indore,3400000,3400,1000,Resale
+733,seller,VERIFIED OWNER,3,"Rau, Indore",Indore,9000000,5625,1600,Ready to move
+734,seller,VERIFIED OWNER,3,"Borkhedi, Indore",Indore,3350000,2576,1300,Under Construction
+735,seller,VERIFIED OWNER,3,"Palakhedi, Indore",Indore,2500000,2500,1000,Resale
+736,seller,VERIFIED OWNER,1,"Sukliya, Indore",Indore,1821000,3035,600,Ready to move
+737,seller,VERIFIED OWNER,3,"Bhicholi Mardana, Indore",Indore,5200000,3250,1600,Under Construction
+738,seller,VERIFIED OWNER,2,"AB Bypass Road, Indore",Indore,2600000,3376,770,Ready to move
+739,seller,VERIFIED OWNER,2,"Rau, Indore",Indore,4351000,3955,1100,Under Construction
+740,seller,VERIFIED OWNER,3,"Bhawrasla, Indore",Indore,8700000,4578,1900,Ready to move
+741,seller,VERIFIED OWNER,2,"Sanwer, Indore",Indore,2800000,4307,650,Under Construction
+742,seller,VERIFIED OWNER,4,"Mahalakshmi Nagar, Indore",Indore,16500000,5500,3000,Ready to move
+743,seller,VERIFIED OWNER,1,"Sukliya, Indore",Indore,1800000,3396,530,Ready to move
+744,seller,VERIFIED OWNER,3,"Manikbagh, Indore",Indore,16900000,7083,2400,Ready to move
+745,seller,VERIFIED OWNER,3,"Lasudia Mori, Indore",Indore,6200000,4428,1400,Ready to move
+746,seller,VERIFIED OWNER,3,"Sukliya, Indore",Indore,8000000,6168,1297,Under Construction
+747,seller,VERIFIED OWNER,2,"New Rani Bagh, Indore",Indore,2200000,2558,860,Ready to move
+748,seller,VERIFIED OWNER,4,"AB Bypass Road, Indore",Indore,8800000,8721,1009,Ready to move
+749,seller,VERIFIED OWNER,1,"Manglia, Indore",Indore,2590000,4144,625,Ready to move
+750,seller,VERIFIED OWNER,3,"Sanwer, Indore",Indore,2500000,2500,1000,Resale
+751,seller,VERIFIED OWNER,3,"Simrol, Indore",Indore,2480000,450,5500,Resale
+752,Somya Buildcon LLP,BUILDER,2,"Jagatpura, Jaipur",Jaipur,3131000,3100,1010,Ready to move
+753,Urbana Jewels,BUILDER,2,"Mansarovar Extension, Jaipur",Jaipur,3600000,2422,1486,Ready to move
+754,Kohinoor Buildcom,BUILDER,2,"Vaishali Nagar, Jaipur",Jaipur,5300000,5000,1060,Ready to move
+755,Bhavyaa Green Builders,BUILDER,2,"Jagatpura, Jaipur",Jaipur,3899000,3700,1054,Under Construction
+756,Manglam Group,BUILDER,3,"Mansarovar, Jaipur",Jaipur,13200000,6547,2031,Under Construction
+757,Shri Aadinath Infratech,BUILDER,2,"Mansarovar, Jaipur",Jaipur,3749000,3850,974,Ready to move
+758,RB Group,BUILDER,3,"Vaishali Nagar, Jaipur",Jaipur,3700000,2741,1350,Ready to move
+759,Mahima Real Estate,BUILDER,3,"Bhankrota, Jaipur",Jaipur,5924000,3900,1519,Ready to move
+760,Somya Buildcon LLP,BUILDER,3,"Jagatpura, Jaipur",Jaipur,4458000,3365,1325,Ready to move
+761,Urbana Jewels,BUILDER,3,"Mansarovar Extension, Jaipur",Jaipur,4900000,2454,1996,Ready to move
+762,Kohinoor Buildcom,BUILDER,3,"Vaishali Nagar, Jaipur",Jaipur,6700000,4786,1400,Ready to move
+763,Bhavyaa Green Builders,BUILDER,3,"Jagatpura, Jaipur",Jaipur,5199000,3768,1380,Under Construction
+764,Manglam Group,BUILDER,3,"Mansarovar, Jaipur",Jaipur,13200000,6752,1969,Under Construction
+765,Shri Aadinath Infratech,BUILDER,3,"Mansarovar, Jaipur",Jaipur,5413000,3850,1406,Ready to move
+766,RB Group,BUILDER,3,"Vaishali Nagar, Jaipur",Jaipur,3500000,2622,1335,Ready to move
+767,Mahima Real Estate,BUILDER,3,"Bhankrota, Jaipur",Jaipur,5924000,3900,1519,Ready to move
+768,Somya Buildcon LLP,BUILDER,3,"Jagatpura, Jaipur",Jaipur,4255000,3364,1265,Ready to move
+769,Bhavyaa Green Builders,BUILDER,2,"Jagatpura, Jaipur",Jaipur,4100000,3671,1117,Under Construction
+770,Manglam Group,BUILDER,2,"Mansarovar, Jaipur",Jaipur,9983000,6598,1513,Under Construction
+771,Shri Aadinath Infratech,BUILDER,3,"Mansarovar, Jaipur",Jaipur,5201000,3850,1351,Ready to move
+772,seller,VERIFIED OWNER,4,"Habibganj, Bhopal",Bhopal,18000000,7500,2400,Ready to move
+773,seller,VERIFIED OWNER,2,"Hoshangabad Road, Bhopal",Bhopal,2450000,2606,940,Ready to move
+774,seller,VERIFIED OWNER,2,"Bhanpur, Bhopal",Bhopal,1800000,1800,1000,Ready to move
+775,seller,VERIFIED OWNER,3,"Barkheda, Bhopal",Bhopal,3300000,300,11000,Resale
+776,seller,VERIFIED OWNER,3,"Phanda Kala, Bhopal",Bhopal,1500000,250,6000,Resale
+777,seller,VERIFIED OWNER,3,"Phanda Kala, Bhopal",Bhopal,1800000,225,8000,Resale
+778,seller,VERIFIED OWNER,3,"Phanda Kala, Bhopal",Bhopal,1750000,350,5000,Resale
+779,Remax Realty Services,AGENT,3,"Shahpura, Bhopal",Bhopal,4500000,3214,1400,Ready to move
+780,Bhopal Prime Properties,AGENT,3,"Arera Colony, Bhopal",Bhopal,11500000,5227,2200,Ready to move
+781,Hill View Property,AGENT,3,"Shahpura, Bhopal",Bhopal,11000000,6215,1770,Ready to move
+782,Agrawal Builders,AGENT,2,"Ayodhya Nagar, Bhopal",Bhopal,3725000,3449,1080,Ready to move
+783,NexXen Solutions Pvt Ltd,AGENT,4,"Rapadia Village, Bhopal",Bhopal,1778000,1481,1200,Ready to move
+784,sandeep Sangwan,AGENT,4,"Lalghati, Bhopal",Bhopal,12000000,3636,3300,Ready to move
+785,AP Reality,AGENT,4,"Gulmohar Colony, Bhopal",Bhopal,13500000,4655,2900,Ready to move
+786,anand sweet Home property,AGENT,3,"Lalghati, Bhopal",Bhopal,8500000,5312,1600,Ready to move
+787,NexXen Solution Pvt Ltd,AGENT,1,"Bagmugalia, Bhopal",Bhopal,1664999,1761,945,Ready to move
+788,seller,VERIFIED OWNER,3,"Patel Nagar, Bhopal",Bhopal,3000000,2329,1288,Ready to move
+789,Nexxen solutions pvt ltd,AGENT,3,"Bagmugalia, Bhopal",Bhopal,11500000,977,11761,Resale
+790,NextGen Consultants,AGENT,5,"Arera Colony, Bhopal",Bhopal,90000000,15517,5800,Under Construction
+791,Your Real Estate Consultant,AGENT,3,"Arera Colony, Bhopal",Bhopal,8500000,4634,1834,Ready to move
+792,Sugam Homes,BUILDER,3,"Garia, Kolkata",Kolkata,4054999,4087,992,Under Construction
+793,Aztek Group,BUILDER,2,"Thakurpukur, Kolkata",Kolkata,2699000,3479,776,Under Construction
+794,Ganguly Group,BUILDER,3,"Garia, Kolkata",Kolkata,14000000,10174,1376,Under Construction
+795,Shristi Infrastructure Development Corporation Ltd,BUILDER,4,"New Town, Kolkata",Kolkata,48900000,11000,4450,Ready to move
+796,Loharuka Group,BUILDER,3,"Rajarhat, Kolkata",Kolkata,8373999,9876,848,Under Construction
+797,Srijan Realty Pvt Ltd,BUILDER,3,"Maheshtala, Kolkata",Kolkata,6256000,4787,1307,Under Construction
+798,Bhawani Group,BUILDER,4,"New Town, Kolkata",Kolkata,16399999,7100,2322,Under Construction
+799,Merlin Group,BUILDER,3,"Chowhati, Kolkata",Kolkata,5373000,6700,802,Under Construction
+800,EDEN GROUP,BUILDER,7,"Joka, Kolkata",Kolkata,21500000,6650,3238,Under Construction
+801,Fortune Park Housing Projects Private Limited,BUILDER,2,"Barasat, Kolkata",Kolkata,3574000,3700,966,Ready to move
+802,Magnolia Infrastructure Development Ltd,BUILDER,2,"Rajarhat, Kolkata",Kolkata,3547999,4000,887,Under Construction
+803,Rohra Builders Tirath Project Rohra Developers Pvt Ltd,BUILDER,3,"New Town, Kolkata",Kolkata,5379000,4320,1245,Under Construction
+804,The Orchid,BUILDER,3,"New Town, Kolkata",Kolkata,8500000,4314,1970,Ready to move
+805,DTC Projects Pvt Ltd,BUILDER,2,"Rajarhat, Kolkata",Kolkata,4000000,4396,910,Under Construction
+806,Sugam Homes,BUILDER,2,"Garia, Kolkata",Kolkata,3175000,3854,824,Under Construction
+807,Aztek Group,BUILDER,3,"Thakurpukur, Kolkata",Kolkata,3599000,3358,1072,Under Construction
+808,Ganguly Group,BUILDER,3,"Garia, Kolkata",Kolkata,14600000,10195,1432,Under Construction
+809,Loharuka Group,BUILDER,3,"Rajarhat, Kolkata",Kolkata,7778000,9922,784,Under Construction
+810,Srijan Realty Pvt Ltd,BUILDER,3,"Maheshtala, Kolkata",Kolkata,6256000,4787,1307,Under Construction
+811,Bhawani Group,BUILDER,4,"New Town, Kolkata",Kolkata,16399999,7100,2322,Under Construction
+812,seller,VERIFIED OWNER,4,"Mesra, Ranchi",Ranchi,8500000,3863,2200,Ready to move
+813,seller,VERIFIED OWNER,3,"Chuttu, Ranchi",Ranchi,2748000,916,3000,Resale
+814,seller,VERIFIED OWNER,3,"Kanke, Ranchi",Ranchi,2103000,965,2178,Resale
+815,aashiyana properties,AGENT,3,"Lalpur, Ranchi",Ranchi,5500000,3914,1405,Ready to move
+816,rajdhani homes,AGENT,3,"Kanke, Ranchi",Ranchi,3750000,1721,2178,New
+817,aashiyana properties,AGENT,3,"Morabadi, Ranchi",Ranchi,7500000,3731,2010,Ready to move
+818,rajdhani homes,AGENT,3,"Morabadi, Ranchi",Ranchi,7000000,4745,1475,Ready to move
+819,rajdhani homes,AGENT,3,"Namkum, Ranchi",Ranchi,2500000,1147,2178,New
+820,Rajdhani Homes,AGENT,3,"Bariatu, Ranchi",Ranchi,12500000,5739,2178,New
+821,Guest,AGENT,3,"Harmu, Ranchi",Ranchi,14400000,6889,2090,New
+822,Guest,AGENT,3,"Bariatu, Ranchi",Ranchi,12500000,5739,2178,New
+823,Rajdhani Homes,AGENT,3,"Hesag, Ranchi",Ranchi,6500000,4642,1400,Ready to move
+824,aashiyana properties,AGENT,3,"Bariatu, Ranchi",Ranchi,7144000,3800,1880,Ready to move
+825,rajdhani homes,AGENT,2,"Lalpur, Ranchi",Ranchi,6500000,6500,1000,Ready to move
+826,rajdhani homes,AGENT,3,"Ormanjhi, Ranchi",Ranchi,3000000,1377,2178,New
+827,Rajdhani Homes,AGENT,3,"Ormanjhi, Ranchi",Ranchi,1440000,1377,1045,New
+828,Guest,AGENT,3,"Getlatu, Ranchi",Ranchi,5100000,1951,2614,New
+829,Guest,AGENT,3,"Kanke, Ranchi",Ranchi,4250000,1951,2178,New
+830,seller,VERIFIED OWNER,4,"Mesra, Ranchi",Ranchi,9000000,3600,2500,Under Construction
+831,Rajdhani Homes,AGENT,3,"Harmu, Ranchi",Ranchi,12500000,5739,2178,New
+832,seller,VERIFIED OWNER,4,"Maruthi Veethika, Mangalore",Mangalore,9900000,5500,1800,Ready to move
+833,seller,VERIFIED OWNER,3,"Kankanady, Mangalore",Mangalore,8000000,4892,1635,Ready to move
+834,seller,VERIFIED OWNER,3,"Pandeshwar, Mangalore",Mangalore,5500000,3937,1397,Ready to move
+835,seller,VERIFIED OWNER,2,"Bunder, Mangalore",Mangalore,3250000,3532,920,Ready to move
+836,seller,VERIFIED OWNER,3,"Kotekar Village, Mangalore",Mangalore,12000000,918,13066,Resale
+837,Guest,AGENT,2,"Urwa, Mangalore",Mangalore,6400000,5333,1200,Ready to move
+838,Yes Property Ventures Pvt Ltd,AGENT,2,"Bejai, Mangalore",Mangalore,8000000,6482,1234,Under Construction
+839,Vajra Realties,AGENT,3,"Jeppinamogaru, Mangalore",Mangalore,6500000,4248,1530,Under Construction
+840,Guest,AGENT,3,"Kadri, Mangalore",Mangalore,32300000,3371,9583,New
+841,Guest,AGENT,3,"Kulashekara, Mangalore",Mangalore,1574000,722,2178,Resale
+842,Ak real estate,BUILDER,2,"Kankanady, Mangalore",Mangalore,5000000,3703,1350,Ready to move
+843,seller,OWNER,2,"Jeppinamogaru, Mangalore",Mangalore,5265000,4500,1170,Ready to move
+844,Vajra Realties,AGENT,3,"Derebail, Mangalore",Mangalore,7500000,5634,1331,Under Construction
+845,Yes Property Ventures Pvt Ltd,AGENT,4,"Kadri, Mangalore",Mangalore,38000000,8941,4250,Under Construction
+846,Ak real estate,BUILDER,2,"Derebail, Mangalore",Mangalore,5500000,4074,1350,Ready to move
+847,seller,VERIFIED OWNER,2,"Bunder, Mangalore",Mangalore,2950000,3462,852,Ready to move
+848,seller,OWNER,3,"Kankanady, Mangalore",Mangalore,6090000,4911,1240,Under Construction
+849,Vajra Realties,AGENT,1,"Maroli, Mangalore",Mangalore,2800000,5000,560,Under Construction
+850,Ak real estate,BUILDER,2,"Kadri, Mangalore",Mangalore,5200000,4333,1200,Ready to move
+851,Yes Property Ventures Pvt Ltd,AGENT,3,"Bejai, Mangalore",Mangalore,12000000,7384,1625,Under Construction
+852,seller,VERIFIED OWNER,4,"Balianta, Bhubaneswar",Bhubaneswar,6600000,2933,2250,Ready to move
+853,seller,VERIFIED OWNER,3,"Rasulgarh, Bhubaneswar",Bhubaneswar,9396000,5400,1740,Under Construction
+854,seller,VERIFIED OWNER,3,"Sundarpada, Bhubaneswar",Bhubaneswar,8500000,5000,1700,Ready to move
+855,seller,VERIFIED OWNER,3,"Sundarpada, Bhubaneswar",Bhubaneswar,8000000,4369,1831,Ready to move
+856,seller,VERIFIED OWNER,3,"Sundarpada, Bhubaneswar",Bhubaneswar,6000000,3243,1850,Under Construction
+857,seller,VERIFIED OWNER,3,"Bhagawanpur, Bhubaneswar",Bhubaneswar,12000000,6325,1897,Under Construction
+858,seller,VERIFIED OWNER,4,"Phulnakhara, Bhubaneswar",Bhubaneswar,7400000,6166,1200,Under Construction
+859,seller,VERIFIED OWNER,3,"BJB Nagar, Bhubaneswar",Bhubaneswar,16000000,8839,1810,Under Construction
+860,seller,VERIFIED OWNER,3,"Rasulgarh, Bhubaneswar",Bhubaneswar,9300000,6503,1430,Ready to move
+861,seller,VERIFIED OWNER,2,"Madanpur, Bhubaneswar",Bhubaneswar,7200000,5475,1315,Under Construction
+862,seller,VERIFIED OWNER,2,"Bhagawanpur, Bhubaneswar",Bhubaneswar,5300000,5543,956,Ready to move
+863,seller,VERIFIED OWNER,3,"Sundarpada, Bhubaneswar",Bhubaneswar,598000,299,2000,Resale
+864,seller,VERIFIED OWNER,3,"Sundarpada, Bhubaneswar",Bhubaneswar,1185000,296,4000,Resale
+865,seller,VERIFIED OWNER,3,"Tamando, Bhubaneswar",Bhubaneswar,2900000,1933,1500,Resale
+866,COSTAL REALTY PRIVATE LIMITED,AGENT,3,"Raghunathpur, Bhubaneswar",Bhubaneswar,14600000,9926,1475,Under Construction
+867,Lenka infraservices i Pvt Ltd,AGENT,2,"Satya Nagar, Bhubaneswar",Bhubaneswar,9900000,10588,935,Under Construction
+868,Myspace Realty,AGENT,2,"Phulnakhara, Bhubaneswar",Bhubaneswar,5200000,5658,919,Under Construction
+869,Mark Property,AGENT,2,"Rasulgarh, Bhubaneswar",Bhubaneswar,2700000,3366,802,Ready to move
+870,India Properties,AGENT,1,"Chandrasekharpur, Bhubaneswar",Bhubaneswar,7500000,9894,758,Ready to move
+871,Sandhya,AGENT,3,"Khordha, Bhubaneswar",Bhubaneswar,21300000,2450,8712,Resale
+872,seller,VERIFIED OWNER,3,"Majra, Dehradun",Dehradun,3900000,2586,1508,Resale
+873,seller,VERIFIED OWNER,3,"Raipur, Dehradun",Dehradun,2400000,2666,900,Resale
+874,seller,VERIFIED OWNER,3,"Kulhan, Dehradun",Dehradun,10000000,4444,2250,Resale
+875,seller,VERIFIED OWNER,3,"Race Course, Dehradun",Dehradun,5500000,6111,900,Resale
+876,seller,VERIFIED OWNER,3,"Kanwali, Dehradun",Dehradun,7500000,3061,2450,Ready to move
+877,seller,VERIFIED OWNER,3,"Niranjanpur, Dehradun",Dehradun,7200000,4800,1500,Ready to move
+878,seller,VERIFIED OWNER,4,"Garhi Cantt, Dehradun",Dehradun,6500000,3611,1800,Ready to move
+879,seller,VERIFIED OWNER,7,"Dalanwala, Dehradun",Dehradun,31400000,7385,4265,Ready to move
+880,seller,VERIFIED OWNER,6,"Ganesh Pur, Dehradun",Dehradun,30000000,9230,3250,Ready to move
+881,seller,VERIFIED OWNER,3,"Dhaulas, Dehradun",Dehradun,27500000,7236,3800,Ready to move
+882,seller,VERIFIED OWNER,2,"banjarawala, Dehradun",Dehradun,4000000,2666,1500,Ready to move
+883,seller,VERIFIED OWNER,3,"Balliwala, Dehradun",Dehradun,10400000,2888,3600,Resale
+884,seller,VERIFIED OWNER,3,"Dhaulas, Dehradun",Dehradun,3200000,888,3600,Resale
+885,seller,VERIFIED OWNER,3,"Race Course, Dehradun",Dehradun,11000000,6111,1800,Resale
+886,seller,VERIFIED OWNER,3,"Raipur, Dehradun",Dehradun,2000000,2222,900,Resale
+887,Shri Krishna Residency,AGENT,3,"Chironwali, Dehradun",Dehradun,9600000,5627,1706,Ready to move
+888,EARTH PROPERTY CONSTRUCTION,AGENT,3,"Govind Vihar, Dehradun",Dehradun,12000000,4528,2650,Ready to move
+889,Pr reality services,AGENT,3,"Aman Vihar, Dehradun",Dehradun,11000000,5699,1930,Ready to move
+890,VIVAAN ASSOCIATES,AGENT,3,"Aman Vihar, Dehradun",Dehradun,8400000,3818,2200,Ready to move
+891,Resizone buildwell pvt ltd,AGENT,1,"Kulhan, Dehradun",Dehradun,2800000,3733,750,Ready to move
+892,seller,VERIFIED OWNER,3,"Dayal Bagh, Agra",Agra,6200000,3701,1675,Ready to move
+893,seller,VERIFIED OWNER,2,"Bajrang Nagar, Agra",Agra,6200000,4940,1255,Ready to move
+894,seller,VERIFIED OWNER,3,"Baroli Ahir, Agra",Agra,3500000,2840,1232,Ready to move
+895,seller,VERIFIED OWNER,4,"Bajrang Nagar, Agra",Agra,7200000,3204,2247,Ready to move
+896,seller,VERIFIED OWNER,2,"Kakraita, Agra",Agra,10000000,5000,2000,Ready to move
+897,seller,VERIFIED OWNER,2,"Rohta, Agra",Agra,2600000,2826,920,Ready to move
+898,seller,VERIFIED OWNER,3,"Nainana Jat, Agra",Agra,3300000,3666,900,Ready to move
+899,seller,VERIFIED OWNER,3,"Shastripuram, Agra",Agra,400000,1111,360,Resale
+900,seller,VERIFIED OWNER,3,"Baroli Ahir, Agra",Agra,2463000,1723,1430,Resale
+901,seller,VERIFIED OWNER,3,"Kaulakha, Agra",Agra,1700000,1182,1438,Resale
+902,seller,VERIFIED OWNER,3,"Gopal Pura, Agra",Agra,850000,944,900,Resale
+903,seller,VERIFIED OWNER,2,"Sikandra, Agra",Agra,6000000,4780,1255,Ready to move
+904,seller,VERIFIED OWNER,3,"Shastripuram, Agra",Agra,7000000,4516,1550,Under Construction
+905,seller,VERIFIED OWNER,3,"Shastripuram, Agra",Agra,1500000,1090,1375,Resale
+906,seller,VERIFIED OWNER,3,"Shastripuram, Agra",Agra,8200000,9213,890,Ready to move
+907,om sai builder,BUILDER,2,"Rohta, Agra",Agra,1499000,2916,514,Ready to move
+908,Archana,BUILDER,3,"Rohta, Agra",Agra,644000,777,828,New
+909,Dev Sinngh,BUILDER,3,"Dhanauli, Agra",Agra,950000,1055,900,New
+910,dev kumar,BUILDER,3,"Sewla Jatt Agra, Agra",Agra,700000,777,900,New
+911,Adinath Builders,BUILDER,3,"Dhanauli, Agra",Agra,950000,1055,900,New
+912,Shreenath Group,BUILDER,3,"Atladara, Vadodara",Vadodara,5700000,5460,1044,Ready to move
+913,Skyline Developers,BUILDER,3,"Vemali, Vadodara",Vadodara,6698999,3210,2087,Under Construction
+914,Vraj Buildcon,BUILDER,4,"Gotri Road, Vadodara",Vadodara,13200000,6966,1895,Under Construction
+915,Madhuvan Group,BUILDER,4,"Sevasi, Vadodara",Vadodara,12900000,5909,2200,Under Construction
+916,Gurukrupa Infra,BUILDER,4,"Sama, Vadodara",Vadodara,7498000,4746,1580,Under Construction
+917,Damodardas Enterprises,BUILDER,3,"Gotri, Vadodara",Vadodara,6900000,5633,1225,Under Construction
+918,Aarna Infra,BUILDER,3,"Bhayli, Vadodara",Vadodara,6298000,4979,1265,Under Construction
+919,Samruddhi Builders,BUILDER,3,"Kalali, Vadodara",Vadodara,2380000,3645,653,Under Construction
+920,Devesh Group,BUILDER,2,"Waghodia, Vadodara",Vadodara,1500000,1500,1000,Under Construction
+921,SP Group,BUILDER,2,"Waghodia, Vadodara",Vadodara,2824000,3594,786,Under Construction
+922,Shreenath Group,BUILDER,3,"Atladara, Vadodara",Vadodara,4999000,5567,898,Ready to move
+923,Skyline Developers,BUILDER,3,"Vemali, Vadodara",Vadodara,6698999,3210,2087,Under Construction
+924,Vraj Buildcon,BUILDER,4,"Gotri Road, Vadodara",Vadodara,13200000,6966,1895,Under Construction
+925,Madhuvan Group,BUILDER,4,"Sevasi, Vadodara",Vadodara,12900000,5909,2200,Under Construction
+926,Gurukrupa Infra,BUILDER,4,"Sama, Vadodara",Vadodara,7498000,4746,1580,Under Construction
+927,Aarna Infra,BUILDER,3,"Bhayli, Vadodara",Vadodara,7748999,5166,1500,Under Construction
+928,Samruddhi Builders,BUILDER,2,"Kalali, Vadodara",Vadodara,1879000,3219,584,Under Construction
+929,Devesh Group,BUILDER,2,"Waghodia, Vadodara",Vadodara,1448000,1525,950,Under Construction
+930,SP Group,BUILDER,3,"Waghodia, Vadodara",Vadodara,3650000,3463,1054,Under Construction
+931,Skyline Developers,BUILDER,3,"Vemali, Vadodara",Vadodara,6998000,3289,2128,Under Construction
+932,seller,VERIFIED OWNER,2,"Dindoli, Surat",Surat,2600000,2452,1060,Under Construction
+933,seller,VERIFIED OWNER,1,"Amroli, Surat",Surat,1711000,2193,780,Ready to move
+934,seller,VERIFIED OWNER,3,"Athwa, Surat",Surat,6800000,3400,2000,Ready to move
+935,seller,VERIFIED OWNER,3,"Palanpur Jakatnaka, Surat",Surat,4000000,4166,960,Ready to move
+936,seller,VERIFIED OWNER,4,"Athwa, Surat",Surat,15000000,5000,3000,Ready to move
+937,seller,VERIFIED OWNER,2,"Pal, Surat",Surat,4500000,4306,1045,Ready to move
+938,seller,VERIFIED OWNER,3,"Baben, Surat",Surat,3451000,1816,1900,Ready to move
+939,seller,VERIFIED OWNER,3,"Piplod, Surat",Surat,7000000,3888,1800,Ready to move
+940,seller,VERIFIED OWNER,6,"Nanpura, Surat",Surat,27000000,3698,7300,Ready to move
+941,seller,VERIFIED OWNER,2,"Vesu, Surat",Surat,6930000,5290,1310,Ready to move
+942,seller,VERIFIED OWNER,4,"Athwa, Surat",Surat,20000000,6932,2885,Ready to move
+943,seller,VERIFIED OWNER,4,"Jalaramnager, Surat",Surat,11200000,4480,2500,Ready to move
+944,seller,VERIFIED OWNER,3,"Rander, Surat",Surat,11000000,4680,2350,Ready to move
+945,seller,VERIFIED OWNER,3,"Adajan Gam, Surat",Surat,5500000,3793,1450,Ready to move
+946,seller,VERIFIED OWNER,2,"Adajan, Surat",Surat,7000000,7777,900,Ready to move
+947,seller,VERIFIED OWNER,4,"Varachha, Surat",Surat,9000000,4500,2000,Ready to move
+948,seller,VERIFIED OWNER,3,"Athwa, Surat",Surat,62500000,13458,4644,Resale
+949,Link Properties Developers Pvt Ltd,AGENT,4,"Nana Varachha, Surat",Surat,39000000,10263,3800,Ready to move
+950,Kaushik associates,AGENT,4,"Nana Varachha, Surat",Surat,38000000,11692,3250,Ready to move
+951,Max Properties,AGENT,4,"Nana Varachha, Surat",Surat,39000000,10263,3800,Ready to move
+952,seller,VERIFIED OWNER,3,"Gill, Ludhiana",Ludhiana,4050000,2793,1450,Ready to move
+953,seller,VERIFIED OWNER,3,"Sahnewal, Ludhiana",Ludhiana,2975000,2479,1200,Ready to move
+954,seller,VERIFIED OWNER,2,"Sahnewal, Ludhiana",Ludhiana,1975000,2633,750,Ready to move
+955,seller,VERIFIED OWNER,2,"Sahnewal, Ludhiana",Ludhiana,1975000,2633,750,Ready to move
+956,seller,VERIFIED OWNER,3,"Sangowal, Ludhiana",Ludhiana,1400000,1548,904,Resale
+957,Ashok Malhotra Group,AGENT,3,"Sahnewal, Ludhiana",Ludhiana,3999000,4444,900,Ready to move
+958,DisposalHub,AGENT,1,"Hussainpura, Ludhiana",Ludhiana,610000,1356,450,Ready to move
+959,seller,VERIFIED OWNER,1,"Housing Board Colony, Ludhiana",Ludhiana,1725000,2653,650,Ready to move
+960,Priyanka,AGENT,3,"Mangli Uchi, Ludhiana",Ludhiana,2764000,945,2925,Resale
+961,DisposalHub,AGENT,2,"Urban Estate Dugri, Ludhiana",Ludhiana,1602000,1424,1125,Ready to move
+962,Axxis Realtors,AGENT,3,"Dad Village, Ludhiana",Ludhiana,9000000,5000,1800,Ready to move
+963,Mehta ESTATES,AGENT,4,"Dad Village, Ludhiana",Ludhiana,25000000,8064,3100,Ready to move
+964,Mehta ESTATES,AGENT,5,"Shaheed Bhagat Singh Nagar, Ludhiana",Ludhiana,36000000,6923,5200,Under Construction
+965,Ashok Malhotra Group,AGENT,2,"Sahnewal, Ludhiana",Ludhiana,3300000,3667,900,Ready to move
+966,Guest,AGENT,2,"Haibowal kalan, Ludhiana",Ludhiana,2571000,2856,900,Ready to move
+967,Mehta ESTATES,AGENT,4,"Shaheed Bhagat Singh Nagar, Ludhiana",Ludhiana,16100000,6192,2600,Under Construction
+968,Priyanka,AGENT,3,"Dhandra, Ludhiana",Ludhiana,443000,1095,405,Resale
+969,DisposalHub,AGENT,2,"Phullanwal, Ludhiana",Ludhiana,2701000,2000,1350,Ready to move
+970,Mehta ESTATES,AGENT,4,"Dad Village, Ludhiana",Ludhiana,14000000,5283,2650,Ready to move
+971,seller,VERIFIED OWNER,3,"Sangowal, Ludhiana",Ludhiana,2450000,2450,1000,Ready to move
+972,seller,VERIFIED OWNER,3,"Surya Enclave, Jalandhar",Jalandhar,3800000,3140,1210,Ready to move
+973,Street Realtors,AGENT,4,"Sanauli, Jalandhar",Jalandhar,10000000,4164,2401,Ready to move
+974,Hunar Estate,AGENT,2,"Sanauli, Jalandhar",Jalandhar,2790000,3263,855,Ready to move
+975,Omega Real Estate,AGENT,3,"Daffarpur, Jalandhar",Jalandhar,8600000,8097,1062,Ready to move
+976,Re-consult Advisory Services,AGENT,3,"Sanauli, Jalandhar",Jalandhar,6550000,3638,1800,Under Construction
+977,Property Greens Vishal Gupta,AGENT,3,"Sanauli, Jalandhar",Jalandhar,3890000,3813,1020,Ready to move
+978,Guest,AGENT,2,"Kuhali, Jalandhar",Jalandhar,3290000,3655,900,Ready to move
+979,Amardeep Real Estates,AGENT,2,"Kuhali, Jalandhar",Jalandhar,2900000,3068,945,Ready to move
+980,Wise Solutions,AGENT,2,"Kuhali, Jalandhar",Jalandhar,3500000,3888,900,Ready to move
+981,CALL 9888,AGENT,3,"Sanauli, Jalandhar",Jalandhar,6000000,3858,1555,Ready to move
+982,Street Realtors,AGENT,4,"Sanauli, Jalandhar",Jalandhar,10000000,4166,2400,Ready to move
+983,Dara Group,OWNER,1,"Kuhali, Jalandhar",Jalandhar,1889999,3393,557,Ready to move
+984,Re-consult Advisory Services,AGENT,3,"Sanauli, Jalandhar",Jalandhar,6450000,3675,1755,Under Construction
+985,Property Greens Vishal Gupta,AGENT,3,"Daffarpur, Jalandhar",Jalandhar,8000000,4000,2000,Ready to move
+986,Hunar Estate,AGENT,3,"Sanauli, Jalandhar",Jalandhar,3790000,3445,1100,Ready to move
+987,CALL 9888,AGENT,3,"Daffarpur, Jalandhar",Jalandhar,7000000,4169,1679,Ready to move
+988,Street Realtors,AGENT,4,"Daffarpur, Jalandhar",Jalandhar,12500000,5206,2401,Ready to move
+989,seller,VERIFIED OWNER,3,"Surya Enclave, Jalandhar",Jalandhar,3200000,2560,1250,Under Construction
+990,Guest,AGENT,1,"Kuhali, Jalandhar",Jalandhar,2290000,3533,648,Ready to move
+991,Amardeep Real Estates,AGENT,2,"Kuhali, Jalandhar",Jalandhar,3200000,3200,1000,Ready to move
+992,Hunar Estate,AGENT,3,"Nabha, Patiala",Patiala,3790000,3451,1098,Ready to move
+993,Estate Solutions Asia,AGENT,3,"Rajpura, Patiala",Patiala,9000000,5000,1800,New
+994,Estate Solutions Asia,AGENT,3,"Rajpura, Patiala",Patiala,5980000,3322,1800,New
+995,Estate Solutions Asia,AGENT,3,"Rajpura, Patiala",Patiala,5950000,3305,1800,New
+996,Guest,OWNER,4,"Urban Estate, Patiala",Patiala,8500000,2833,3000,Under Construction
+997,Minakshi Arora,OWNER,3,"Baran, Patiala",Patiala,9600000,2666,3600,Resale
+998,Divya Yadav,BUILDER,3,"Guru Nanak Nagar, Patiala",Patiala,1000000,1000,1000,New
+999,Estate Solutions Asia,AGENT,3,"Rajpura, Patiala",Patiala,9100000,3370,2700,New
+1000,Estate Solutions Asia,AGENT,3,"Rajpura, Patiala",Patiala,6000000,3333,1800,New
+1001,Mandeep Singh,OWNER,3,"Rajpura, Patiala",Patiala,3500000,388,9000,Resale
+1002,Tarun Bawa,OWNER,1,"Rasulpur Saidan, Patiala",Patiala,1550000,1739,891,Ready to move
+1003,harminder singh,OWNER,3,"Nabha, Patiala",Patiala,2500000,925,2700,New
+1004,user,OWNER,3,"Rajpura, Patiala",Patiala,2500000,1122,2228,Resale
+1005,Vikram,OWNER,6,"New Officers Colony, Patiala",Patiala,22000000,3333,6600,Ready to move
+1006,Estate Solutions Asia,AGENT,3,"Rajpura, Patiala",Patiala,6000000,3333,1800,New
+1007,seller,VERIFIED OWNER,3,"Pullazhi, Thrissur",Thrissur,6800000,3777,1800,Under Construction
+1008,seller,VERIFIED OWNER,4,"Cheroor, Thrissur",Thrissur,12500000,5000,2500,Ready to move
+1009,seller,VERIFIED OWNER,2,"Cheroor, Thrissur",Thrissur,3999000,3571,1120,Ready to move
+1010,Property Junction,AGENT,2,"Amalanagar, Thrissur",Thrissur,4000000,4555,878,Under Construction
+1011,Yes Property Ventures Pvt Ltd,AGENT,4,"Kuttoor, Thrissur",Thrissur,35000000,9633,3633,Under Construction
+1012,Lorven earthlinks pvt ltd,AGENT,3,"Kuriachira, Thrissur",Thrissur,9300000,2128,4370,Resale
+1013,seller,VERIFIED OWNER,4,"Amalanagar, Thrissur",Thrissur,7000000,3255,2150,Under Construction
+1014,Yes Property Ventures Pvt Ltd,AGENT,4,"Ollur, Thrissur",Thrissur,19000000,6785,2800,Under Construction
+1015,Yes Property Ventures Pvt Ltd,AGENT,3,"Kuttoor, Thrissur",Thrissur,26000000,9485,2741,Under Construction
+1016,PREMIUM VILLAS,AGENT,3,"Guruvayoor, Thrissur",Thrissur,6500000,2600,2500,Under Construction
+1017,Citi Reality,AGENT,3,"Athani, Thrissur",Thrissur,8000000,4444,1800,Ready to move
+1018,Global,OWNER,3,"Vellangallur, Thrissur",Thrissur,4499000,2431,1851,Under Construction
+1019,shanthipuram villas,OWNER,4,"Edamuttam Edathuruthy Road, Thrissur",Thrissur,7600000,3110,2443,Ready to move
+1020,anto john,OWNER,5,"Kuttoor, Thrissur",Thrissur,6500000,2600,2500,Ready to move
+1021,suraj,OWNER,4,"Pottore, Thrissur",Thrissur,7500000,3571,2100,Ready to move
+1022,Jacbbaby,AGENT,2,"Elanad, Thrissur",Thrissur,2000000,3333,600,Under Construction
+1023,PREMIUM VILLAS,AGENT,3,"Chembukkav, Thrissur",Thrissur,4500000,3000,1500,Under Construction
+1024,Yes Property Ventures Pvt Ltd,AGENT,3,"Ollur, Thrissur",Thrissur,12000000,6666,1800,Under Construction
+1025,jems properties,AGENT,4,"Mission Quarters Road, Thrissur",Thrissur,27500000,12222,2250,Ready to move
+1026,Jems Properties,AGENT,5,"Kuriachira, Thrissur",Thrissur,135000000,15000,9000,Ready to move
+1027,4closure,AGENT,3,"Chonadam, Kannur",Kannur,4000000,1858,2152,Resale
+1028,Bhargav forcloser,AGENT,3,"Thavakkara, Kannur",Kannur,4500000,321,13993,Resale
+1029,akshay,BUILDER,3,"Payyanur, Kannur",Kannur,8475000,3017,2809,Ready to move
+1030,Lakshya,BUILDER,3,"Thavakkara, Kannur",Kannur,7500000,2678,2800,Under Construction
+1031,LAKSHYA BUILDERS,BUILDER,4,"Thavakkara, Kannur",Kannur,4000000,1142,3500,Under Construction
+1032,Malabar Flex,OWNER,3,"Puthiyatheru Kakkad Road, Kannur",Kannur,7900000,2025,3900,Ready to move
+1033,Mohamad Shahin Ambalatha Kandy,OWNER,3,"Thavakkara, Kannur",Kannur,11200000,3673,3049,New
+1034,LAKSHYA BUILDERS,BUILDER,4,"Kannur Road, Kannur",Kannur,4500000,3000,1500,Under Construction
+1035,CRITI developers,BUILDER,5,"Thaliparambu, Kannur",Kannur,13300000,4493,2960,Under Construction
+1036,Aravindan,OWNER,3,"Thottada, Kannur",Kannur,20000000,6666,3000,Ready to move
+1037,Vijesh,OWNER,3,"Manal, Kannur",Kannur,22000000,1147,19166,New
+1038,BuildHome,BUILDER,3,"Thalassery, Kannur",Kannur,12500000,4427,2823,Ready to move
+1039,Jaleel,OWNER,4,"Thalassery, Kannur",Kannur,4500000,3214,1400,Ready to move
+1040,LAKSHYA BUILDERS,BUILDER,4,"Thavakkara, Kannur",Kannur,4500000,2000,2250,Under Construction
+1041,user1686,OWNER,3,"Athirakam, Kannur",Kannur,10000000,1639,6098,Resale
+1042,BuildHome,BUILDER,3,"Chala, Kannur",Kannur,5000000,4166,1200,Under Construction
+1043,seller,OWNER,3,"Illathaazha, Kannur",Kannur,3600000,459,7840,Resale
+1044,CEREER GROUP,BUILDER,3,"Kannur Cantonment Area, Kannur",Kannur,849000,849,1000,New
+1045,BuildHome,BUILDER,3,"Kannur Road, Kannur",Kannur,6500000,3250,2000,Under Construction
+1046,Preman,OWNER,3,"Payyambalam, Kannur",Kannur,32000000,4591,6969,New
+1047,seller,VERIFIED OWNER,3,"Chamkkada, Kollam",Kollam,6000000,4716,1272,Under Construction
+1048,Jayakumar,OWNER,3,"Kollam Theni Highway, Kollam",Kollam,750000,4360,172,New
+1049,pradeep,OWNER,3,"Kottarakkara Kottayam Road, Kollam",Kollam,3900000,3900,1000,Ready to move
+1050,Rani JACKSON,OWNER,4,"Bavana Nagar, Kollam",Kollam,15000000,6818,2200,Ready to move
+1051,Johnson Realtor,AGENT,15,"Kottarakkara Kottayam Road, Kollam",Kollam,250000000,12500,20000,Ready to move
+1052,seller,VERIFIED OWNER,5,"Chathamangalam Grama Panchayath, Kozhikode",Kozhikode,17000000,4047,4200,Ready to move
+1053,seller,VERIFIED OWNER,5,"Government Medical College Campus, Kozhikode",Kozhikode,15000000,5000,3000,Under Construction
+1054,Yes Property Ventures Pvt Ltd,AGENT,3,"West Hill, Kozhikode",Kozhikode,12500000,6027,2074,Under Construction
+1055,Bhargav forcloser,AGENT,3,"Cheruvatta, Kozhikode",Kozhikode,3300000,1021,3229,Resale
+1056,Yes Property Ventures Pvt Ltd,AGENT,3,"West Hill, Kozhikode",Kozhikode,11000000,6285,1750,Under Construction
+1057,Bhargav forcloser,AGENT,3,"Cheruvatta, Kozhikode",Kozhikode,6570000,561,11700,Resale
+1058,porticade builders,BUILDER,3,"Ummalathoor, Kozhikode",Kozhikode,6850000,4566,1500,Under Construction
+1059,hyma builders,BUILDER,4,"Moozhikkal Parambil Bazar Road, Kozhikode",Kozhikode,6400000,4129,1550,Ready to move
+1060,Yes Property Ventures Pvt Ltd,AGENT,4,"West Hill, Kozhikode",Kozhikode,17500000,6116,2861,Under Construction
+1061,Bhargav forcloser,AGENT,3,"Feroke, Kozhikode",Kozhikode,9100000,813,11180,Resale
+1062,Thithithara,OWNER,3,"Ramanattukara, Kozhikode",Kozhikode,5000000,3086,1620,Under Construction
+1063,jerry,OWNER,3,"Vellayil, Kozhikode",Kozhikode,5000000,1531,3265,Ready to move
+1064,Dinesh,OWNER,2,"Poovangal, Kozhikode",Kozhikode,7200000,5333,1350,Ready to move
+1065,Radhakrishnan,OWNER,3,"Feroke, Kozhikode",Kozhikode,9500000,2183,4350,New
+1066,hyma builders,BUILDER,3,"Chelavoor, Kozhikode",Kozhikode,7500000,4545,1650,Ready to move
+1067,HYMA BUILDERS KOZHIKODE,BUILDER,4,"Moozhikkal Parambil Bazar Road, Kozhikode",Kozhikode,6400000,4129,1550,Ready to move
+1068,porticade builders,BUILDER,4,"Ummalathoor, Kozhikode",Kozhikode,8475000,4546,1864,Under Construction
+1069,MARK DEVELOPERS,BUILDER,4,"Thondayad, Kozhikode",Kozhikode,15000000,3444,4355,Under Construction
+1070,MARK DEVELOPERS,BUILDER,3,"Chelavoor, Kozhikode",Kozhikode,5899000,4538,1300,Under Construction
+1071,Vino Ayyappan,OWNER,3,"Mananchira, Kozhikode",Kozhikode,30000000,10901,2752,Ready to move
+1072,seller,VERIFIED OWNER,1,"Bilhari, Jabalpur",Jabalpur,1500000,3000,500,Under Construction
+1073,seller,VERIFIED OWNER,3,"Saliwada, Jabalpur",Jabalpur,1260000,1500,840,Resale
+1074,seller,VERIFIED OWNER,2,"Gupteshwar, Jabalpur",Jabalpur,2450000,2882,850,Ready to move
+1075,seller,VERIFIED OWNER,3,"Tilhari, Jabalpur",Jabalpur,5800000,5800,1000,Under Construction
+1076,seller,VERIFIED OWNER,2,"Saliwada, Jabalpur",Jabalpur,4399000,3999,1100,Ready to move
+1077,seller,VERIFIED OWNER,2,"Dhanwantari Nagar, Jabalpur",Jabalpur,2199000,2416,910,Ready to move
+1078,seller,VERIFIED OWNER,3,"Bilhari, Jabalpur",Jabalpur,3650000,2807,1300,Under Construction
+1079,seller,VERIFIED OWNER,2,"Saliwada, Jabalpur",Jabalpur,2100000,2500,840,Ready to move
+1080,seller,VERIFIED OWNER,3,"Bilhari, Jabalpur",Jabalpur,5499000,3927,1400,Ready to move
+1081,seller,VERIFIED OWNER,3,"Bilhari, Jabalpur",Jabalpur,2600000,2600,1000,Resale
+1082,seller,VERIFIED OWNER,2,"Bilhari, Jabalpur",Jabalpur,2650000,2038,1300,Ready to move
+1083,seller,VERIFIED OWNER,3,"Saliwada, Jabalpur",Jabalpur,1092000,1300,840,Resale
+1084,Afroz khan,AGENT,3,"Jotpur, Jabalpur",Jabalpur,2313000,275,8414,New
+1085,anjali Pandey,BUILDER,5,"Adhartal, Jabalpur",Jabalpur,2600000,1733,1500,Ready to move
+1086,Neelesh Kumar Sahu,OWNER,4,"Damoh Naka, Jabalpur",Jabalpur,3200000,2666,1200,Ready to move
+1087,R P Sharma,OWNER,2,"Patan Road, Jabalpur",Jabalpur,3500000,3500,1000,Ready to move
+1088,Anuj chouksey,OWNER,2,"Gohalpur, Jabalpur",Jabalpur,3000000,4000,750,Ready to move
+1089,seller,VERIFIED OWNER,2,"Saliwada, Jabalpur",Jabalpur,1798999,2141,840,Ready to move
+1090,seller,VERIFIED OWNER,3,"Bilhari, Jabalpur",Jabalpur,4700000,6714,700,Resale
+1091,sumit,BUILDER,3,"Barela, Jabalpur",Jabalpur,550000,550,1000,New
+1092,UNBOX PROPERTY,AGENT,3,"Nagziri, Ujjain",Ujjain,1400000,1750,800,New
+1093,ANSHUL,AGENT,4,"Mahananda Nagar, Ujjain",Ujjain,8000000,4000,2000,Ready to move
+1094,Kakkad Realtors,BUILDER,3,"Parsvnath City, Ujjain",Ujjain,1800000,2250,800,New
+1095,Lavish Mehta,OWNER,5,"Chandukhedi, Ujjain",Ujjain,3650000,1825,2000,Under Construction
+1096,Rajan Raghuwanshi,OWNER,3,"Dewas Road, Ujjain",Ujjain,5100000,2170,2350,Ready to move
+1097,Sona Verma,OWNER,1,"Nagziri, Ujjain",Ujjain,1395000,2790,500,Ready to move
+1098,Pradeep Kumar,OWNER,3,"Ujjain Maksi Road, Ujjain",Ujjain,595000,1144,520,New
+1099,seller,VERIFIED OWNER,3,"CCWO Colony, Dhanbad",Dhanbad,3700000,3288,1125,Under Construction
+1100,seller,VERIFIED OWNER,3,"Kalakusuma, Dhanbad",Dhanbad,1050000,700,1500,Resale
+1101,99 group,AGENT,3,"Kasitanr, Dhanbad",Dhanbad,7200000,5142,1400,Ready to move
+1102,Hassan,BUILDER,3,"Hirak Road, Dhanbad",Dhanbad,3200000,2431,1316,Under Construction
+1103,Binod Mishra,OWNER,3,"Gobindpur, Dhanbad",Dhanbad,3150000,2625,1200,Ready to move
+1104,Deepak Singh,OWNER,3,"Damodarpur, Dhanbad",Dhanbad,4000000,2422,1651,Under Construction
+1105,Ranjan,OWNER,3,"Bank More, Dhanbad",Dhanbad,5100000,2428,2100,Ready to move
+1106,Guest,OWNER,6,"Murli Nagar, Dhanbad",Dhanbad,6500000,2321,2800,Under Construction
+1107,Eighteen Estate,BUILDER,3,"Kasitanr, Dhanbad",Dhanbad,1876000,2199,853,Under Construction
+1108,Guest,OWNER,3,"Chanakya Nagar, Dhanbad",Dhanbad,2200000,1913,1150,Ready to move
+1109,shyam kumar,OWNER,2,"Dhanbad Road, Dhanbad",Dhanbad,1425000,2192,650,Ready to move
+1110,Eighteen Estate,BUILDER,3,"Bhuli, Dhanbad",Dhanbad,4900000,3500,1400,Under Construction
+1111,Hassan,BUILDER,3,"Pandey Muhalla, Dhanbad",Dhanbad,3450000,2089,1651,Under Construction
+1112,99 group,AGENT,4,"Kasitanr, Dhanbad",Dhanbad,8500000,3935,2160,Ready to move
+1113,Raqoon lands dealers,AGENT,3,"Matkuria Colony Road, Dhanbad",Dhanbad,70000000,2800,25000,Resale
+1114,NINETY NINE BUILDERS PVT LTD,BUILDER,4,"Gobindpur, Dhanbad",Dhanbad,4599000,2403,1914,Under Construction
+1115,Ninety Nine Builder,AGENT,4,"Amaghata, Dhanbad",Dhanbad,6200000,3092,2005,Under Construction
+1116,ashwani kumar,BUILDER,4,"Hirak Road, Dhanbad",Dhanbad,4000000,2666,1500,Under Construction
+1117,Ashwani kumar,BUILDER,5,"Hirak Road, Dhanbad",Dhanbad,5000000,2403,2080,Under Construction
+1118,99 builders pvt Ltd,AGENT,3,"Hirak Road, Dhanbad",Dhanbad,3500000,2222,1575,Under Construction
+1119,seller,VERIFIED OWNER,3,"Chitragupta Nagar, Patna",Patna,40000000,9796,4083,Resale
+1120,seller,VERIFIED OWNER,3,"Bihta, Patna",Patna,1200000,1000,1200,Resale
+1121,seller,VERIFIED OWNER,3,"Phulwari Sharif, Patna",Patna,6500000,4374,1486,Ready to move
+1122,seller,VERIFIED OWNER,3,"Bihta, Patna",Patna,1199000,1199,1000,Resale
+1123,seller,VERIFIED OWNER,2,"Danapur, Patna",Patna,5451000,4385,1243,Under Construction
+1124,seller,VERIFIED OWNER,3,"Bihta, Patna",Patna,900000,750,1200,Resale
+1125,seller,VERIFIED OWNER,3,"Bihta, Patna",Patna,1400000,1166,1200,Resale
+1126,seller,VERIFIED OWNER,3,"Bihta, Patna",Patna,800000,800,1000,Resale
+1127,seller,VERIFIED OWNER,3,"Bihta, Patna",Patna,1378000,1149,1200,Resale
+1128,seller,VERIFIED OWNER,3,"Bihta, Patna",Patna,1080000,900,1200,Resale
+1129,seller,VERIFIED OWNER,3,"Bihta, Patna",Patna,1400000,1166,1200,Resale
+1130,Pankaj Kumar,AGENT,4,"Gardanibagh, Patna",Patna,15500000,6200,2500,Ready to move
+1131,seller,VERIFIED OWNER,10,"Sheikhpura, Patna",Patna,35000000,8750,4000,Ready to move
+1132,Nexxen solutions pvt ltd,AGENT,3,"Danapur, Patna",Patna,6800000,4657,1460,Ready to move
+1133,user,AGENT,3,"Danapur, Patna",Patna,6500000,5000,1300,Ready to move
+1134,RELIABLE CONSULTANCY SERVICES,AGENT,2,"Danapur, Patna",Patna,7501000,6500,1154,Ready to move
+1135,user0359,AGENT,3,"Danapur, Patna",Patna,11200000,7491,1495,Ready to move
+1136,Kaushlendra Singh,BUILDER,3,"Phulwari Sharif, Patna",Patna,5511000,4058,1358,Under Construction
+1137,Pankaj Kumar,AGENT,3,"Kumhrar, Patna",Patna,176000,100,1760,New
+1138,Guest,AGENT,3,"Naubatpur, Patna",Patna,1689999,1408,1200,New
+1139,Kaushlendra Singh,BUILDER,3,"Magadh, Gaya",Gaya,7800000,5342,1460,Under Construction
+1140,QAMAR ASHRAF,OWNER,2,"Chandauti, Gaya",Gaya,3200000,4571,700,Ready to move
+1141,shree bhagyabhmi developers,BUILDER,3,"Bodh Gaya, Gaya",Gaya,900000,900,1000,Resale
+1142,Paramjeet kumar,OWNER,3,"Bodh Gaya, Gaya",Gaya,1800000,1323,1360,New
+1143,Rksinha,AGENT,3,"Bodh Gaya, Gaya",Gaya,15000000,12500,1200,Ready to move
+1144,Hetan Pandey,OWNER,1,"Railway Station Road, Gaya",Gaya,7500000,22865,328,Ready to move
+1145,ESCHOOL INDIA,OWNER,3,"Bodh Gaya, Gaya",Gaya,947000,899,1053,New
+1146,bodhgaya real estate,BUILDER,3,"Bodh Gaya, Gaya",Gaya,900000,1111,810,Ready to move
+1147,Bhushan,OWNER,3,"Railway Station Road, Gaya",Gaya,5000000,8333,600,Ready to move
+1148,bodhgaya real estate,BUILDER,3,"Bodh Gaya, Gaya",Gaya,2899000,2132,1360,Under Construction
+1149,amit ranjan,OWNER,3,"Chandauti, Gaya",Gaya,2300000,1451,1585,Resale
+1150,Ajay,BUILDER,3,"Railway Station Road, Gaya",Gaya,1199000,1199,1000,New
+1151,Suraj singh,OWNER,3,"Jaiprakash Nagar, Gaya",Gaya,700000,1605,436,Resale
+1152,bodhgaya real estate,BUILDER,3,"Bodh Gaya, Gaya",Gaya,1450000,2132,680,New
+1153,Suraj singh,OWNER,3,"Jaiprakash Nagar, Gaya",Gaya,11900000,1034,11500,Resale
+1154,bodhgaya real estate,BUILDER,3,"Bodh Gaya, Gaya",Gaya,1200000,882,1360,New
+1155,Suraj singh,OWNER,3,"Jaiprakash Nagar, Gaya",Gaya,9800000,1814,5400,Resale
+1156,seller,VERIFIED OWNER,2,"Hamid Nagar, Asansol",Asansol,2800000,2828,990,Ready to move
+1157,seller,VERIFIED OWNER,5,"Gopalpur, Asansol",Asansol,17000000,6800,2500,Under Construction
+1158,MISRA ASSOCIATES DEVELOPMENT CONSULTANT PVT LTD,AGENT,2,"Ushagram, Asansol",Asansol,3388000,3500,968,Under Construction
+1159,Papa Gorilla,AGENT,3,"Ushagram, Asansol",Asansol,7631999,4000,1908,Ready to move
+1160,Vs builders,AGENT,3,"Gopalpur, Asansol",Asansol,2200000,2195,1002,Under Construction
+1161,Vs builders,AGENT,3,"Gopalpur, Asansol",Asansol,4200000,2896,1450,Ready to move
+1162,seller,VERIFIED OWNER,3,"Gopalpur, Asansol",Asansol,4500000,30000,150,Resale
+1163,Vs builders,AGENT,3,"Burnpur, Asansol",Asansol,2651000,2200,1205,Ready to move
+1164,MISRA ASSOCIATES DEVELOPMENT CONSULTANT PVT LTD,AGENT,2,"Ushagram, Asansol",Asansol,3041000,3500,869,Under Construction
+1165,Zafro Industries Private Limited,BUILDER,2,"Ushagram, Asansol",Asansol,2865000,2900,988,Under Construction
+1166,Vs builders,AGENT,3,"Ushagram, Asansol",Asansol,3500000,2604,1344,Ready to move
+1167,Asansol Properties,AGENT,3,"Nigha Road, Asansol",Asansol,600000,416,1440,New
+1168,MISRA ASSOCIATES DEVELOPMENT CONSULTANT PVT LTD,AGENT,2,"Ushagram, Asansol",Asansol,3118000,3500,891,Under Construction
+1169,Zafro Industries Private Limited,BUILDER,3,"Ushagram, Asansol",Asansol,3526000,2900,1216,Under Construction
+1170,Papa Gorilla,AGENT,4,"Ushagram, Asansol",Asansol,10500000,4000,2632,Ready to move
+1171,Vs builders,AGENT,3,"Ushagram, Asansol",Asansol,7572000,4000,1893,Under Construction
+1172,Asansol Properties,OWNER,3,"Nigha Road, Asansol",Asansol,350000,243,1440,New
+1173,abhijit,BUILDER,2,"Ushagram, Asansol",Asansol,1600000,2352,680,Ready to move
+1174,Asansol Properties,BUILDER,3,"NH19, Asansol",Asansol,1200000,555,2160,New
+1175,Papa Gorilla,AGENT,3,"Ushagram, Asansol",Asansol,7572000,4000,1893,Ready to move
